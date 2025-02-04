@@ -1,0 +1,61 @@
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Configure stats pid to 1644374
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from /home/arc/Show-o/wandb/settings
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-01-26 21:06:36,636 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Applying login settings: {}
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:_log_setup():520] Logging user logs to /home/arc/Show-o/wandb/run-20250126_210636-gje0vieo/logs/debug.log
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:_log_setup():521] Logging internal logs to /home/arc/Show-o/wandb/run-20250126_210636-gje0vieo/logs/debug-internal.log
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:_jupyter_setup():466] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f45b0860970>
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:init():560] calling init triggers
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {'wandb.entity': None, 'wandb.resume': 'auto', 'wandb.run_id': 'fhdpe9gu', 'experiment.project': 'demo', 'experiment.name': 'show-o-demo', 'experiment.output_dir': 'show-o-demo', 'model.vq_model.type': 'magvitv2', 'model.vq_model.vq_model_name': '/home/arc/.cache/huggingface/hub/models--showlab--magvitv2/snapshots/5c3fa78f8b3523347c5cd1a4c97f3c4e96f33d5d', 'model.showo.pretrained_model_path': '/home/arc/.cache/huggingface/hub/models--showlab--show-o-w-clip-vit/snapshots/31a9d79fb8a1649f4e8919b924a7106c06e4a609', 'model.showo.w_clip_vit': True, 'model.showo.vocab_size': 58498, 'model.showo.llm_vocab_size': 50295, 'model.showo.llm_model_path': '/home/arc/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963', 'model.showo.codebook_size': 8192, 'model.showo.num_vq_tokens': 256, 'model.showo.num_new_special_tokens': 10, 'model.gradient_checkpointing': True, 'dataset.gen_type': 't2i', 'dataset.und_type': 'captioning', 'dataset.params.batch_size': 20, 'dataset.params.shuffle_buffer_size': 1000, 'dataset.params.num_workers': 32, 'dataset.params.resolution': 256, 'dataset.params.pin_memory': True, 'dataset.params.persistent_workers': True, 'dataset.preprocessing.max_seq_length': 128, 'dataset.preprocessing.resolution': 256, 'dataset.preprocessing.center_crop': False, 'dataset.preprocessing.random_flip': False, 'training.gradient_accumulation_steps': 1, 'training.cond_dropout_prob': 0.1, 'training.batch_size': 20, 'training.checkpoint_dir': '/home/arc/Show-o/saves', 'clip_path': '/home/arc/.cache/huggingface/hub/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1', 'mode': 't2i', 'batch_size': 1, 'generation_timesteps': 50, 'guidance_scale': 5, 'validation_prompts_file': 'validation_prompts/showoprompts.txt'}
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:init():610] starting backend
+2025-01-26 21:06:36,637 INFO    MainThread:1644374 [wandb_init.py:init():614] setting up manager
+2025-01-26 21:06:36,642 INFO    MainThread:1644374 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-01-26 21:06:36,650 INFO    MainThread:1644374 [wandb_init.py:init():622] backend started and connected
+2025-01-26 21:06:36,653 INFO    MainThread:1644374 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2025-01-26 21:06:36,653 INFO    MainThread:1644374 [wandb_run.py:_label_probe_notebook():1338] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-01-26 21:06:36,653 INFO    MainThread:1644374 [wandb_init.py:init():711] updated telemetry
+2025-01-26 21:06:36,664 INFO    MainThread:1644374 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2025-01-26 21:06:37,684 INFO    MainThread:1644374 [wandb_run.py:_on_init():2396] communicating current version
+2025-01-26 21:06:38,664 INFO    MainThread:1644374 [wandb_run.py:_on_init():2405] got version response upgrade_message: "wandb version 0.19.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2025-01-26 21:06:38,664 INFO    MainThread:1644374 [wandb_init.py:init():795] starting run threads in backend
+2025-01-26 21:06:39,107 INFO    MainThread:1644374 [wandb_run.py:_console_start():2374] atexit reg
+2025-01-26 21:06:39,108 INFO    MainThread:1644374 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2025-01-26 21:06:39,108 INFO    MainThread:1644374 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2025-01-26 21:06:39,108 INFO    MainThread:1644374 [wandb_run.py:_redirect():2319] Redirects installed.
+2025-01-26 21:06:39,113 INFO    MainThread:1644374 [wandb_init.py:init():838] run started, returning control to user process
+2025-01-26 21:06:48,508 INFO    MainThread:1644374 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2025-01-26 21:06:48,509 INFO    MainThread:1644374 [wandb_init.py:_pause_backend():431] pausing backend
+2025-01-26 21:06:58,285 INFO    MainThread:1644374 [wandb_init.py:_resume_backend():436] resuming backend
+2025-01-26 21:07:33,398 INFO    MainThread:1644374 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2025-01-26 21:07:33,398 INFO    MainThread:1644374 [wandb_init.py:_pause_backend():431] pausing backend
+2025-01-26 21:10:26,913 INFO    MainThread:1644374 [wandb_init.py:_resume_backend():436] resuming backend
+2025-01-26 21:10:26,930 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Configure stats pid to 1644374
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from /home/arc/Show-o/wandb/settings
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_setup.py:_flush():76] Applying login settings: {}
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_init.py:_log_setup():520] Logging user logs to /home/arc/Show-o/wandb/run-20250126_211026-ypas0bg8/logs/debug.log
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_init.py:_log_setup():521] Logging internal logs to /home/arc/Show-o/wandb/run-20250126_211026-ypas0bg8/logs/debug-internal.log
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_init.py:init():560] calling init triggers
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {'wandb.entity': None, 'wandb.resume': 'auto', 'wandb.run_id': 'fhdpe9gu', 'experiment.project': 'demo', 'experiment.name': 'show-o-demo', 'experiment.output_dir': 'show-o-demo', 'model.vq_model.type': 'magvitv2', 'model.vq_model.vq_model_name': '/home/arc/.cache/huggingface/hub/models--showlab--magvitv2/snapshots/5c3fa78f8b3523347c5cd1a4c97f3c4e96f33d5d', 'model.showo.pretrained_model_path': '/home/arc/.cache/huggingface/hub/models--showlab--show-o-w-clip-vit/snapshots/31a9d79fb8a1649f4e8919b924a7106c06e4a609', 'model.showo.w_clip_vit': True, 'model.showo.vocab_size': 58498, 'model.showo.llm_vocab_size': 50295, 'model.showo.llm_model_path': '/home/arc/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963', 'model.showo.codebook_size': 8192, 'model.showo.num_vq_tokens': 256, 'model.showo.num_new_special_tokens': 10, 'model.gradient_checkpointing': True, 'dataset.gen_type': 't2i', 'dataset.und_type': 'captioning', 'dataset.params.batch_size': 1, 'dataset.params.shuffle_buffer_size': 1000, 'dataset.params.num_workers': 32, 'dataset.params.resolution': 256, 'dataset.params.pin_memory': True, 'dataset.params.persistent_workers': True, 'dataset.params.validation_prompts_file': 'validation_prompts/showoprompts.txt', 'dataset.preprocessing.max_seq_length': 128, 'dataset.preprocessing.resolution': 256, 'dataset.preprocessing.center_crop': False, 'dataset.preprocessing.random_flip': False, 'training.gradient_accumulation_steps': 1, 'training.cond_dropout_prob': 0.1, 'training.batch_size': 1, 'training.checkpoint_dir': '/home/arc/Show-o/saves', 'training.guidance_scale': 5, 'training.generation_timesteps': 50, 'clip_path': '/home/arc/.cache/huggingface/hub/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1', 'mode': 't2i', 'batch_size': 1, 'generation_timesteps': 50, 'guidance_scale': 5, 'validation_prompts_file': 'validation_prompts/showoprompts.txt'}
+2025-01-26 21:10:26,931 INFO    MainThread:1644374 [wandb_init.py:init():585] re-initializing run, found existing run on stack: gje0vieo
+2025-01-26 21:10:26,933 INFO    MainThread:1644374 [wandb_run.py:_finish():2103] finishing run hankyang428-xi-an-jiaotong-university-/demo/gje0vieo
+2025-01-26 21:10:26,934 ERROR   MainThread:1644374 [jupyter.py:save_history():437] Run pip install nbformat to save notebook history
+2025-01-26 21:10:26,934 INFO    MainThread:1644374 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2025-01-26 21:10:26,934 INFO    MainThread:1644374 [wandb_init.py:_jupyter_teardown():448] cleaning up jupyter logic
+2025-01-26 21:10:26,934 INFO    MainThread:1644374 [wandb_run.py:_atexit_cleanup():2343] got exitcode: 0
+2025-01-26 21:10:26,934 INFO    MainThread:1644374 [wandb_run.py:_restore():2326] restore
+2025-01-26 21:10:26,934 INFO    MainThread:1644374 [wandb_run.py:_restore():2332] restore done
+2025-01-26 21:10:37,153 INFO    MainThread:1644374 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2025-01-26 21:10:37,153 INFO    MainThread:1644374 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2025-01-26 21:10:37,157 INFO    MainThread:1644374 [wandb_run.py:_footer_sync_info():3953] logging synced files

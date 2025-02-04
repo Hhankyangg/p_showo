@@ -1,0 +1,167 @@
+wandb_version: 1
+
+wandb.entity:
+  desc: null
+  value: null
+wandb.resume:
+  desc: null
+  value: auto
+wandb.run_id:
+  desc: null
+  value: fhdpe9gu
+experiment.project:
+  desc: null
+  value: demo
+experiment.name:
+  desc: null
+  value: show-o-demo
+experiment.output_dir:
+  desc: null
+  value: show-o-demo
+model.vq_model.type:
+  desc: null
+  value: magvitv2
+model.vq_model.vq_model_name:
+  desc: null
+  value: /home/arc/.cache/huggingface/hub/models--showlab--magvitv2/snapshots/5c3fa78f8b3523347c5cd1a4c97f3c4e96f33d5d
+model.showo.pretrained_model_path:
+  desc: null
+  value: /home/arc/.cache/huggingface/hub/models--showlab--show-o-w-clip-vit/snapshots/31a9d79fb8a1649f4e8919b924a7106c06e4a609
+model.showo.w_clip_vit:
+  desc: null
+  value: true
+model.showo.vocab_size:
+  desc: null
+  value: 58498
+model.showo.llm_vocab_size:
+  desc: null
+  value: 50295
+model.showo.llm_model_path:
+  desc: null
+  value: /home/arc/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963
+model.showo.codebook_size:
+  desc: null
+  value: 8192
+model.showo.num_vq_tokens:
+  desc: null
+  value: 256
+model.showo.num_new_special_tokens:
+  desc: null
+  value: 10
+model.gradient_checkpointing:
+  desc: null
+  value: true
+dataset.gen_type:
+  desc: null
+  value: t2i
+dataset.und_type:
+  desc: null
+  value: captioning
+dataset.params.batch_size:
+  desc: null
+  value: 1
+dataset.params.shuffle_buffer_size:
+  desc: null
+  value: 1000
+dataset.params.num_workers:
+  desc: null
+  value: 32
+dataset.params.resolution:
+  desc: null
+  value: 256
+dataset.params.pin_memory:
+  desc: null
+  value: true
+dataset.params.persistent_workers:
+  desc: null
+  value: true
+dataset.params.validation_prompts_file:
+  desc: null
+  value: validation_prompts/showoprompts.txt
+dataset.preprocessing.max_seq_length:
+  desc: null
+  value: 128
+dataset.preprocessing.resolution:
+  desc: null
+  value: 256
+dataset.preprocessing.center_crop:
+  desc: null
+  value: false
+dataset.preprocessing.random_flip:
+  desc: null
+  value: false
+training.gradient_accumulation_steps:
+  desc: null
+  value: 1
+training.cond_dropout_prob:
+  desc: null
+  value: 0.1
+training.batch_size:
+  desc: null
+  value: 1
+training.checkpoint_dir:
+  desc: null
+  value: /home/arc/Show-o/saves
+training.guidance_scale:
+  desc: null
+  value: 5
+training.generation_timesteps:
+  desc: null
+  value: 50
+clip_path:
+  desc: null
+  value: /home/arc/.cache/huggingface/hub/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1
+mode:
+  desc: null
+  value: t2i
+batch_size:
+  desc: null
+  value: 1
+generation_timesteps:
+  desc: null
+  value: 50
+guidance_scale:
+  desc: null
+  value: 5
+validation_prompts_file:
+  desc: null
+  value: validation_prompts/showoprompts.txt
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.16
+    cli_version: 0.17.0
+    framework: huggingface
+    huggingface_version: 4.41.1
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1737897038
+    t:
+      1:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      - 71
+      - 83
+      2:
+      - 1
+      - 11
+      - 41
+      - 49
+      - 55
+      - 71
+      - 83
+      3:
+      - 13
+      - 16
+      - 23
+      - 61
+      4: 3.10.16
+      5: 0.17.0
+      6: 4.41.1
+      8:
+      - 1
+      - 5
+      13: linux-x86_64
