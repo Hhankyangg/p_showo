@@ -618,8 +618,10 @@ class PersonalizedT2IDataset(Dataset):
         img = Image.open(img_path).convert("RGB")
         # 定义条件文本
         condition_text = f"A photo of <{self.concept_name}>."
+        # condition_text = "Captain America's shield"
         item = {
             "conditions": self.system_personalized_prompt + "\n" + condition_text,
+            # "conditions": condition_text,
             "images": img,  
         }
         # 对图像进行预处理（resize、ToTensor 等）
