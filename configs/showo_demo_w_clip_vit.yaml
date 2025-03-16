@@ -11,14 +11,14 @@ experiment:
 model:
     vq_model:
         type: "magvitv2"
-        vq_model_name: "/home/arc/.cache/huggingface/hub/models--showlab--magvitv2/snapshots/5c3fa78f8b3523347c5cd1a4c97f3c4e96f33d5d"
+        vq_model_name: "/home/hpyky/.cache/huggingface/hub/models--showlab--magvitv2/snapshots/5c3fa78f8b3523347c5cd1a4c97f3c4e96f33d5d"
 
     showo:
-        pretrained_model_path: "/home/arc/.cache/huggingface/hub/models--showlab--show-o-w-clip-vit/snapshots/31a9d79fb8a1649f4e8919b924a7106c06e4a609"
+        pretrained_model_path: "/home/hpyky/.cache/huggingface/hub/models--showlab--show-o-w-clip-vit/snapshots/31a9d79fb8a1649f4e8919b924a7106c06e4a609"
         w_clip_vit: True
         vocab_size: 58498
         llm_vocab_size: 50295
-        llm_model_path: '/home/arc/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963'
+        llm_model_path: "/home/hpyky/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963"
         codebook_size: 8192
         num_vq_tokens: 256
         num_new_special_tokens: 10  # <|soi|> <|eoi|> <|sov|> <|eov|> <|t2i|> <|mmu|> <|t2v|> <|v2v|> <|lvg|> <|pad|>
@@ -47,6 +47,6 @@ training:
     cond_dropout_prob: 0.1
     batch_size: 20
     min_masking_rate: 0.0
-    checkpoint_dir: "/home/arc/Show-o/saves"
+    checkpoint_dir: "/home/hpyky/Show-o/saves"
 
-clip_path: "/home/arc/.cache/huggingface/hub/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1"
+clip_path: "/home/hpyky/.cache/huggingface/hub/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1"

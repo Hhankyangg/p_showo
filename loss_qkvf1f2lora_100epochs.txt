@@ -1,0 +1,3892 @@
+Epoch 1
+  0%|          | 0/48 [00:00<?, ?it/s]100%|██████████| 48/48 [00:21<00:00,  2.18it/s]
+Epoch 1 loss: 12.81671890616417, loss_t2i: 12.509069055318832, loss_mmu: 14.047317410508791
+  Token-Norm: 14.30239200592041
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 13.125253677368164
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.197873830795288
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 2
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 2 loss: 9.54554694890976, loss_t2i: 10.155497372150421, loss_mmu: 7.105744471152623
+  Token-Norm: 16.433063507080078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 13.216753959655762
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.195699691772461
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 3
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 3 loss: 8.465712557236353, loss_t2i: 9.303905834754309, loss_mmu: 5.11293892065684
+  Token-Norm: 16.617046356201172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 13.15629768371582
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1899369955062866
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 4
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 4 loss: 7.987674395243327, loss_t2i: 8.842982093493143, loss_mmu: 4.566443199912707
+  Token-Norm: 17.610031127929688
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 13.09846305847168
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1845072507858276
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 5
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 5 loss: 7.837515542904536, loss_t2i: 8.736503660678864, loss_mmu: 4.241562788685163
+  Token-Norm: 18.071876525878906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 13.044193267822266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1788978576660156
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 6
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 6 loss: 7.717934221029282, loss_t2i: 8.665519446134567, loss_mmu: 3.9275927742322287
+  Token-Norm: 18.40325355529785
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.987552642822266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.173495888710022
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 7
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 7 loss: 7.548691540956497, loss_t2i: 8.550999184449514, loss_mmu: 3.5394606043895087
+  Token-Norm: 18.378780364990234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.932426452636719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1679558753967285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 8
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 8 loss: 7.414731999238332, loss_t2i: 8.437026878197988, loss_mmu: 3.3255521853764853
+  Token-Norm: 18.285276412963867
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.875630378723145
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1625181436538696
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 9
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 9 loss: 7.320829421281815, loss_t2i: 8.376294602950415, loss_mmu: 3.0989682525396347
+  Token-Norm: 18.238140106201172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.819015502929688
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1570000648498535
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 10
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+/home/hpyky/miniconda3/envs/showo/lib/python3.10/site-packages/peft/utils/save_and_load.py:154: UserWarning: Could not find a config file in /home/hpyky/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963 - will assume that the vocabulary was not modified.
+  warnings.warn(
+Epoch 10 loss: 7.254828751087189, loss_t2i: 8.33871697386106, loss_mmu: 2.919275318582853
+  Token-Norm: 18.205120086669922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.762203216552734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.151601791381836
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 11
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 11 loss: 7.156752487023671, loss_t2i: 8.237937132517496, loss_mmu: 2.832013597091039
+  Token-Norm: 18.27042007446289
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.704545021057129
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1461869478225708
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 12
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 12 loss: 7.179885685443878, loss_t2i: 8.305619359016418, loss_mmu: 2.6769506484270096
+  Token-Norm: 18.297607421875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.648595809936523
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1407452821731567
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 13
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 13 loss: 7.212854454914729, loss_t2i: 8.371729373931885, loss_mmu: 2.577354376514753
+  Token-Norm: 18.48792839050293
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.593243598937988
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1352415084838867
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 14
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 14 loss: 7.074560850858688, loss_t2i: 8.229998250802359, loss_mmu: 2.4528109058737755
+  Token-Norm: 18.59013557434082
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.536395072937012
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1299816370010376
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 15
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 15 loss: 7.667428304751714, loss_t2i: 8.457573175430298, loss_mmu: 4.50684833774964
+  Token-Norm: 24.87055015563965
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.479839324951172
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.124679684638977
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 16
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 16 loss: 7.2625613907972975, loss_t2i: 8.272210965553919, loss_mmu: 3.223962664604187
+  Token-Norm: 27.544994354248047
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.426424980163574
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1193665266036987
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 17
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 17 loss: 7.118173062801361, loss_t2i: 8.218712757031122, loss_mmu: 2.7160136426488557
+  Token-Norm: 27.64139175415039
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.371609687805176
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1140189170837402
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 18
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 18 loss: 7.061180849870046, loss_t2i: 8.185852587223053, loss_mmu: 2.5624935080607734
+  Token-Norm: 28.217470169067383
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.316885948181152
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1088086366653442
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 19
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 19 loss: 7.097724666198094, loss_t2i: 8.278160472710928, loss_mmu: 2.3759810055295625
+  Token-Norm: 28.411012649536133
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.261941909790039
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1036392450332642
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 20
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 20 loss: 7.021627048651378, loss_t2i: 8.22050142288208, loss_mmu: 2.226128973066807
+  Token-Norm: 28.477035522460938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.208527565002441
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0984220504760742
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 21
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 21 loss: 7.0424462755521136, loss_t2i: 8.176897595326105, loss_mmu: 2.504640551904837
+  Token-Norm: 30.955455780029297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.151678085327148
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0931377410888672
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 22
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 22 loss: 7.922637055317561, loss_t2i: 8.421286751826605, loss_mmu: 5.928037633498509
+  Token-Norm: 46.437469482421875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.112887382507324
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0902469158172607
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 23
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 23 loss: 7.707535962263743, loss_t2i: 8.364549507697424, loss_mmu: 5.079481199383736
+  Token-Norm: 49.109092712402344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 12.038910865783691
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0875645875930786
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 24
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 24 loss: 7.161150286595027, loss_t2i: 8.215723226467768, loss_mmu: 2.9428581992785134
+  Token-Norm: 48.925270080566406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.988945960998535
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0827686786651611
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 25
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 25 loss: 7.147071858247121, loss_t2i: 8.278005450963974, loss_mmu: 2.623337055246035
+  Token-Norm: 48.733821868896484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.941080093383789
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0778923034667969
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 26
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 26 loss: 7.056271245082219, loss_t2i: 8.216717759768168, loss_mmu: 2.414484759171804
+  Token-Norm: 48.53371047973633
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.892544746398926
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0729566812515259
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 27
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 27 loss: 7.012186358372371, loss_t2i: 8.200225214163462, loss_mmu: 2.260030560195446
+  Token-Norm: 48.314674377441406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.838810920715332
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0681315660476685
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 28
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 28 loss: 7.014873345692952, loss_t2i: 8.22947840889295, loss_mmu: 2.1564526011546454
+  Token-Norm: 48.125308990478516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.784330368041992
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0631777048110962
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 29
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 29 loss: 7.037256012360255, loss_t2i: 8.28310751914978, loss_mmu: 2.0538495679696402
+  Token-Norm: 47.962284088134766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.729358673095703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0582914352416992
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 30
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 30 loss: 7.0061709980169935, loss_t2i: 8.213730971018473, loss_mmu: 2.1759306167562804
+  Token-Norm: 48.15316390991211
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.678250312805176
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.053431749343872
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 31
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 31 loss: 7.028396844863892, loss_t2i: 8.227077772219976, loss_mmu: 2.233672430117925
+  Token-Norm: 48.44283676147461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.628761291503906
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0490249395370483
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 32
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 32 loss: 6.930887748797734, loss_t2i: 8.178370773792267, loss_mmu: 1.9409550031026204
+  Token-Norm: 48.261695861816406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.575902938842773
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0442341566085815
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 33
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 33 loss: 6.88114916284879, loss_t2i: 8.134867628415426, loss_mmu: 1.866274707019329
+  Token-Norm: 48.10004806518555
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.522539138793945
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.039427399635315
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 34
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 34 loss: 6.881966054439545, loss_t2i: 8.151978929837545, loss_mmu: 1.8019140164057414
+  Token-Norm: 47.93775939941406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.47030258178711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0345770120620728
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 35
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 35 loss: 6.815213114023209, loss_t2i: 8.083898137013117, loss_mmu: 1.740472527841727
+  Token-Norm: 47.76581954956055
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.416887283325195
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0298422574996948
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 36
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 36 loss: 6.845046470562617, loss_t2i: 8.123631646235784, loss_mmu: 1.7307052065928776
+  Token-Norm: 47.62641906738281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.363788604736328
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0251203775405884
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 37
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 37 loss: 6.888334055741628, loss_t2i: 8.177500466505686, loss_mmu: 1.73166790107886
+  Token-Norm: 47.63591384887695
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.312848091125488
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0202765464782715
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 38
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 38 loss: 6.839229355255763, loss_t2i: 8.13997702797254, loss_mmu: 1.6362381875514984
+  Token-Norm: 47.49495315551758
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.260629653930664
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.015547513961792
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 39
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 39 loss: 6.805671334266663, loss_t2i: 8.113841017087301, loss_mmu: 1.5729920379817486
+  Token-Norm: 47.341739654541016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.20921802520752
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0108208656311035
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 40
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 40 loss: 6.79370903968811, loss_t2i: 8.106877505779266, loss_mmu: 1.5410346326728661
+  Token-Norm: 47.20595169067383
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.1580171585083
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0061125755310059
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 41
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 41 loss: 6.795038829247157, loss_t2i: 8.115193744500479, loss_mmu: 1.514418742309014
+  Token-Norm: 47.09185791015625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.107653617858887
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.0014013051986694
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 42
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 42 loss: 6.809602955977122, loss_t2i: 8.142581393321356, loss_mmu: 1.4776886502901714
+  Token-Norm: 47.01601028442383
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.058671951293945
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9966462850570679
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 43
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 43 loss: 6.745780656735103, loss_t2i: 8.074558754762014, loss_mmu: 1.4306677194933097
+  Token-Norm: 46.8719367980957
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 11.007889747619629
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9921165704727173
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 44
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 44 loss: 6.744794617096583, loss_t2i: 8.082400421301523, loss_mmu: 1.3943710041542847
+  Token-Norm: 46.731163024902344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.959049224853516
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.987403929233551
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 45
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 45 loss: 6.7790323694547014, loss_t2i: 8.133200099070867, loss_mmu: 1.362360945592324
+  Token-Norm: 46.6406364440918
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.907926559448242
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9828320741653442
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 46
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 46 loss: 6.679653316736221, loss_t2i: 8.01735391219457, loss_mmu: 1.3288504965603352
+  Token-Norm: 46.54527282714844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.858871459960938
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9782626032829285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 47
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 47 loss: 6.647643675406774, loss_t2i: 7.937623351812363, loss_mmu: 1.487724384913842
+  Token-Norm: 46.93828201293945
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.817352294921875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9733676314353943
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 48
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 48 loss: 7.252999444802602, loss_t2i: 8.435632556676865, loss_mmu: 2.522466520468394
+  Token-Norm: 47.443275451660156
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.795683860778809
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.96763014793396
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 49
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 49 loss: 6.8640077114105225, loss_t2i: 8.15539746483167, loss_mmu: 1.6984481886029243
+  Token-Norm: 47.3521728515625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.739686965942383
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9637227058410645
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 50
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 50 loss: 6.630537410577138, loss_t2i: 7.922353267669678, loss_mmu: 1.4632735686997573
+  Token-Norm: 47.22052764892578
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.679647445678711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9602585434913635
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 51
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 51 loss: 6.528764684995015, loss_t2i: 7.81887486577034, loss_mmu: 1.3683235310018063
+  Token-Norm: 47.108760833740234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.625694274902344
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9560661315917969
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 52
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 52 loss: 6.4367325603961945, loss_t2i: 7.696229875087738, loss_mmu: 1.3987426434954007
+  Token-Norm: 47.14488983154297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.572039604187012
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9518364071846008
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 53
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 53 loss: 6.484344998995463, loss_t2i: 7.723672856887181, loss_mmu: 1.5270329813162486
+  Token-Norm: 47.485042572021484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.523777961730957
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.947289764881134
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 54
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 54 loss: 6.397087966402371, loss_t2i: 7.677399019400279, loss_mmu: 1.275843204309543
+  Token-Norm: 47.48458480834961
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.476082801818848
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9430541396141052
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 55
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 55 loss: 6.2797833780447645, loss_t2i: 7.556172887484233, loss_mmu: 1.1742249118785064
+  Token-Norm: 47.4147834777832
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.426779747009277
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9386675357818604
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 56
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 56 loss: 5.878778566916783, loss_t2i: 7.073435604572296, loss_mmu: 1.100150181601445
+  Token-Norm: 47.40391159057617
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.378253936767578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9343453049659729
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 57
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 57 loss: 5.894390573104222, loss_t2i: 7.103191047906876, loss_mmu: 1.0591883497933547
+  Token-Norm: 47.39982604980469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.330620765686035
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.930055558681488
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 58
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 58 loss: 9.348824808994928, loss_t2i: 8.601598719755808, loss_mmu: 12.337728808323542
+  Token-Norm: 51.07234191894531
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.63312816619873
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9451448917388916
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 59
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 59 loss: 7.553146064281464, loss_t2i: 8.238727202018103, loss_mmu: 4.810821130871773
+  Token-Norm: 50.88896560668945
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.61780071258545
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9398853182792664
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 60
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 60 loss: 7.403214603662491, loss_t2i: 8.209021419286728, loss_mmu: 4.1799870530764265
+  Token-Norm: 50.59764862060547
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.56788158416748
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9358980059623718
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 61
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 61 loss: 7.485694815715154, loss_t2i: 8.283860196669897, loss_mmu: 4.293032735586166
+  Token-Norm: 50.28187942504883
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.529682159423828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9312564730644226
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 62
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 62 loss: 7.237240274747212, loss_t2i: 8.149717489878336, loss_mmu: 3.587330917517344
+  Token-Norm: 50.001014709472656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.479519844055176
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9269757866859436
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 63
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 63 loss: 7.177906036376953, loss_t2i: 8.165091812610626, loss_mmu: 3.229162593682607
+  Token-Norm: 49.70122146606445
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.43066692352295
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9224910140037537
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 64
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 64 loss: 7.101002941528956, loss_t2i: 8.138796736796698, loss_mmu: 2.9498271147410073
+  Token-Norm: 49.431880950927734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.38239860534668
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.91814124584198
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 65
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 65 loss: 7.105154385169347, loss_t2i: 8.199895232915878, loss_mmu: 2.726190467675527
+  Token-Norm: 49.19365310668945
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.334076881408691
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.913963794708252
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 66
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 66 loss: 7.066996316115062, loss_t2i: 8.192781825860342, loss_mmu: 2.56385371585687
+  Token-Norm: 48.98805236816406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.285629272460938
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9096939563751221
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 67
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 67 loss: 7.017451922098796, loss_t2i: 8.130615919828415, loss_mmu: 2.5647953574856124
+  Token-Norm: 48.82951736450195
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.238970756530762
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.905684232711792
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 68
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 68 loss: 6.929620166619618, loss_t2i: 8.06795976559321, loss_mmu: 2.3762610579530397
+  Token-Norm: 48.633705139160156
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.191502571105957
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.9013583660125732
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 69
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 69 loss: 6.945919285217921, loss_t2i: 8.125016778707504, loss_mmu: 2.229528784751892
+  Token-Norm: 48.49106979370117
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.14377498626709
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8970790505409241
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 70
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 70 loss: 6.8968294362227125, loss_t2i: 8.090670963128408, loss_mmu: 2.121462844312191
+  Token-Norm: 48.35569763183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.096173286437988
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8928360342979431
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 71
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 71 loss: 6.8818642397721606, loss_t2i: 8.090467105309168, loss_mmu: 2.0474522535999617
+  Token-Norm: 48.23717498779297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.048696517944336
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8886383175849915
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 72
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 72 loss: 6.927444209655126, loss_t2i: 8.17289623618126, loss_mmu: 1.9456356912851334
+  Token-Norm: 48.12601089477539
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 10.001412391662598
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8844891786575317
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 73
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 73 loss: 6.898736973603566, loss_t2i: 8.157808989286423, loss_mmu: 1.8624485706289609
+  Token-Norm: 48.02614974975586
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.954936981201172
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8803043961524963
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 74
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 74 loss: 6.801703313986461, loss_t2i: 8.05451730887095, loss_mmu: 1.7904470240076382
+  Token-Norm: 47.963096618652344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.908349990844727
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.876284658908844
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 75
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 75 loss: 6.9214577575524645, loss_t2i: 8.21856982509295, loss_mmu: 1.7330089633663495
+  Token-Norm: 47.87520980834961
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.86205768585205
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8721994757652283
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 76
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 76 loss: 6.821627537409465, loss_t2i: 8.101554254690805, loss_mmu: 1.7019201318422954
+  Token-Norm: 47.80553436279297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.818282127380371
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8681010603904724
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 77
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 77 loss: 6.783336351315181, loss_t2i: 8.075908889373144, loss_mmu: 1.6130457893013954
+  Token-Norm: 47.73857116699219
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.770624160766602
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8642978668212891
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 78
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 78 loss: 6.764554023742676, loss_t2i: 8.053233633438746, loss_mmu: 1.6098351540664833
+  Token-Norm: 47.73423767089844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.73098373413086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.859730064868927
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 79
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 79 loss: 6.804215639829636, loss_t2i: 8.095540275176367, loss_mmu: 1.6389165620009105
+  Token-Norm: 48.475772857666016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.71601390838623
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8577017188072205
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 80
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 80 loss: 6.684887200593948, loss_t2i: 7.968530793984731, loss_mmu: 1.5503123241166274
+  Token-Norm: 48.68272018432617
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.672294616699219
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8544213175773621
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 81
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 81 loss: 6.656413714090983, loss_t2i: 7.9303091168403625, loss_mmu: 1.5608315877616405
+  Token-Norm: 48.74888610839844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.713899612426758
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8541236519813538
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 82
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 82 loss: 6.587087959051132, loss_t2i: 7.803996413946152, loss_mmu: 1.7194536651174228
+  Token-Norm: 49.49978256225586
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.721733093261719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8509842753410339
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 83
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 83 loss: 6.398841251929601, loss_t2i: 7.5930437843004865, loss_mmu: 1.6220305226743221
+  Token-Norm: 49.763427734375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.670315742492676
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8479408621788025
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 84
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 84 loss: 6.3854188819726305, loss_t2i: 7.604638636112213, loss_mmu: 1.5085393066207569
+  Token-Norm: 49.79481506347656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.633938789367676
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8437975645065308
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 85
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 85 loss: 7.314198553562164, loss_t2i: 8.423768291870752, loss_mmu: 2.87591910113891
+  Token-Norm: 49.90074157714844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.611356735229492
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.838387668132782
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 86
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 86 loss: 6.8316881358623505, loss_t2i: 8.0765347580115, loss_mmu: 1.8523011753956478
+  Token-Norm: 49.72077178955078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.561577796936035
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8350984454154968
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 87
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 87 loss: 6.844923784335454, loss_t2i: 8.171749224265417, loss_mmu: 1.5376214397450287
+  Token-Norm: 49.578887939453125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.512680053710938
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8316640853881836
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 88
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 88 loss: 6.674224992593129, loss_t2i: 8.00568687915802, loss_mmu: 1.3483769036829472
+  Token-Norm: 49.46584701538086
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.464896202087402
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8282171487808228
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 89
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 89 loss: 6.561062912146251, loss_t2i: 7.902199556430181, loss_mmu: 1.1965157811840375
+  Token-Norm: 49.472232818603516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.415761947631836
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8249959945678711
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 90
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 90 loss: 6.247746586799622, loss_t2i: 7.494282017151515, loss_mmu: 1.261604469269514
+  Token-Norm: 50.70726013183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.377747535705566
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8214999437332153
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 91
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 91 loss: 5.953364635507266, loss_t2i: 7.1523076593875885, loss_mmu: 1.157592307155331
+  Token-Norm: 51.50627517700195
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.337265014648438
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8175110816955566
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 92
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 92 loss: 5.668994391957919, loss_t2i: 6.8300628165404005, loss_mmu: 1.0247202347964048
+  Token-Norm: 51.63764953613281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.295681953430176
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8136622309684753
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 93
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 93 loss: 5.892836978038152, loss_t2i: 7.08285657564799, loss_mmu: 1.132758002107342
+  Token-Norm: 51.94333267211914
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.242485046386719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8117626309394836
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 94
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 94 loss: 5.364980032046636, loss_t2i: 6.469267467657725, loss_mmu: 0.9478301759809256
+  Token-Norm: 52.00712966918945
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.202422142028809
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.8080175518989563
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 95
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 95 loss: 5.009160156051318, loss_t2i: 6.066820154587428, loss_mmu: 0.7785195906956991
+  Token-Norm: 52.00248718261719
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.169472694396973
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.804404079914093
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 96
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 96 loss: 4.758349438508351, loss_t2i: 5.749338259299596, loss_mmu: 0.7943936921656132
+  Token-Norm: 52.17388153076172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.135684967041016
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.801476240158081
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 97
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 97 loss: 4.43421629567941, loss_t2i: 5.355672334631284, loss_mmu: 0.748391787831982
+  Token-Norm: 52.28950500488281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.10284423828125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7991523742675781
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 98
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 98 loss: 3.987238864103953, loss_t2i: 4.817554950714111, loss_mmu: 0.6659741352001826
+  Token-Norm: 52.297264099121094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.080756187438965
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7960737347602844
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 99
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 99 loss: 3.6877602636814117, loss_t2i: 4.447944447398186, loss_mmu: 0.6470233978082737
+  Token-Norm: 52.39585494995117
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.056731224060059
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7928337454795837
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 100
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 100 loss: 3.4120497355858483, loss_t2i: 4.118785252173741, loss_mmu: 0.5851074513047934
+  Token-Norm: 52.455657958984375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.038421630859375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7899162769317627
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 101
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 101 loss: 3.456518458823363, loss_t2i: 4.170456031958262, loss_mmu: 0.6007678679501017
+  Token-Norm: 52.48396682739258
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 9.008731842041016
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7868533730506897
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 102
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 102 loss: 3.3540607541799545, loss_t2i: 4.02242327729861, loss_mmu: 0.6806103233247995
+  Token-Norm: 52.65973663330078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.973653793334961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.78343665599823
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 103
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 103 loss: 2.968968227505684, loss_t2i: 3.575615848104159, loss_mmu: 0.542377317789942
+  Token-Norm: 52.81605529785156
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.946996688842773
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7802482843399048
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 104
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 104 loss: 2.7229042053222656, loss_t2i: 3.2762908587853112, loss_mmu: 0.5093574520821372
+  Token-Norm: 52.82642364501953
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.917588233947754
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7770482301712036
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 105
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 105 loss: 2.6774997437993684, loss_t2i: 3.2383772432804108, loss_mmu: 0.4339895920517544
+  Token-Norm: 52.819156646728516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.893021583557129
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.774118959903717
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 106
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 106 loss: 2.4669811775286994, loss_t2i: 2.980550448099772, loss_mmu: 0.41270381926248473
+  Token-Norm: 52.901371002197266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.865464210510254
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7710145711898804
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 107
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 107 loss: 2.370025890568892, loss_t2i: 2.8726752077539763, loss_mmu: 0.35942843385661644
+  Token-Norm: 52.86683654785156
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.836165428161621
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7681471705436707
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 108
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 108 loss: 2.1896893257896104, loss_t2i: 2.6587924882769585, loss_mmu: 0.3132764104132851
+  Token-Norm: 52.7327880859375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.808229446411133
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.76502525806427
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 109
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 109 loss: 2.1754299104213715, loss_t2i: 2.642689861357212, loss_mmu: 0.306389934848994
+  Token-Norm: 52.780479431152344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.77590274810791
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7619045972824097
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 110
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 110 loss: 2.0720028281211853, loss_t2i: 2.5137689088781676, loss_mmu: 0.30493829927096766
+  Token-Norm: 52.779685974121094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.744392395019531
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7589045166969299
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 111
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 111 loss: 1.9182790977259476, loss_t2i: 2.311803713440895, loss_mmu: 0.34418035050233203
+  Token-Norm: 52.946807861328125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.714007377624512
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7557833790779114
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 112
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 112 loss: 1.8742278516292572, loss_t2i: 2.261187174667915, loss_mmu: 0.3263904855897029
+  Token-Norm: 53.15878677368164
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.682085990905762
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.752583384513855
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 113
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 113 loss: 1.9412293372054894, loss_t2i: 2.340369259317716, loss_mmu: 0.34466944526260096
+  Token-Norm: 53.39887237548828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.654125213623047
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7493582367897034
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 114
+100%|██████████| 48/48 [00:21<00:00,  2.22it/s]
+Epoch 114 loss: 1.7336079068481922, loss_t2i: 2.0817484383781752, loss_mmu: 0.3410455936876436
+  Token-Norm: 53.6692008972168
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.623089790344238
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7464414834976196
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 115
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 115 loss: 1.6169508000214894, loss_t2i: 1.9548896911243598, loss_mmu: 0.2651951435642938
+  Token-Norm: 53.77933120727539
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.595141410827637
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7433893084526062
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 116
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 116 loss: 1.6591954752802849, loss_t2i: 2.0032674074172974, loss_mmu: 0.28290759787584346
+  Token-Norm: 54.04206085205078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.560462951660156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.740525484085083
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 117
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 117 loss: 1.536232673873504, loss_t2i: 1.860515999297301, loss_mmu: 0.23909921571612358
+  Token-Norm: 54.08984375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.529119491577148
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7376132607460022
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 118
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 118 loss: 1.696747502932946, loss_t2i: 2.0461647398769855, loss_mmu: 0.29907846668114263
+  Token-Norm: 54.35360336303711
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.492775917053223
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7349408864974976
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 119
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 119 loss: 1.4428115611275036, loss_t2i: 1.7270799838006496, loss_mmu: 0.30573773151263595
+  Token-Norm: 54.75345230102539
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.464832305908203
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7318546175956726
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 120
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 120 loss: 1.5169870369136333, loss_t2i: 1.816989704966545, loss_mmu: 0.31697626194606227
+  Token-Norm: 55.15826416015625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.426769256591797
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7294027805328369
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 121
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 121 loss: 1.3569420147687197, loss_t2i: 1.6399461943656206, loss_mmu: 0.22492527915164828
+  Token-Norm: 55.231815338134766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.39692211151123
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7259023189544678
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 122
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 122 loss: 1.274103104447325, loss_t2i: 1.5382101184998949, loss_mmu: 0.21767495557044944
+  Token-Norm: 55.33755111694336
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.36330509185791
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7228448390960693
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 123
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 123 loss: 1.2508341042945783, loss_t2i: 1.5168326335648696, loss_mmu: 0.18683986893544594
+  Token-Norm: 55.222469329833984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.329510688781738
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7201517820358276
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 124
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 124 loss: 1.218425879565378, loss_t2i: 1.464653115098675, loss_mmu: 0.23351681333345672
+  Token-Norm: 55.37785339355469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.295853614807129
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7170591950416565
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 125
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 125 loss: 1.4437315203249454, loss_t2i: 1.727660762766997, loss_mmu: 0.30801441372993094
+  Token-Norm: 55.90470886230469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.264453887939453
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7140499949455261
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 126
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 126 loss: 1.3898078358421724, loss_t2i: 1.6678507557759683, loss_mmu: 0.27763597496474784
+  Token-Norm: 56.50398635864258
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.231025695800781
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7119397521018982
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 127
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 127 loss: 1.3553391881287098, loss_t2i: 1.616384020075202, loss_mmu: 0.3111597499810159
+  Token-Norm: 57.433372497558594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.272557258605957
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7087306976318359
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 128
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 128 loss: 1.254433064411084, loss_t2i: 1.509852301950256, loss_mmu: 0.23275607405230403
+  Token-Norm: 57.915225982666016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.244789123535156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7062501311302185
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 129
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 129 loss: 1.1764017334207892, loss_t2i: 1.4127354100346565, loss_mmu: 0.2310669069799284
+  Token-Norm: 57.96916961669922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.205658912658691
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7036773562431335
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 130
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 130 loss: 1.2903486425057054, loss_t2i: 1.5593691648294528, loss_mmu: 0.2142664548009634
+  Token-Norm: 58.38854217529297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.160346984863281
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.7027227878570557
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 131
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 131 loss: 1.1758882304032643, loss_t2i: 1.415757271150748, loss_mmu: 0.21641197862724462
+  Token-Norm: 58.652854919433594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.127974510192871
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6998908519744873
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 132
+100%|██████████| 48/48 [00:21<00:00,  2.23it/s]
+Epoch 132 loss: 1.2189691858366132, loss_t2i: 1.4664560354625185, loss_mmu: 0.229021688302358
+  Token-Norm: 59.19765853881836
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.098212242126465
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6971101760864258
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 133
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 133 loss: 1.3311799634248018, loss_t2i: 1.5802733469754457, loss_mmu: 0.33480628323741257
+  Token-Norm: 59.89833450317383
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.06916618347168
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6944923996925354
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 134
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 134 loss: 1.0328715691963832, loss_t2i: 1.2340951512257259, loss_mmu: 0.22797713289037347
+  Token-Norm: 60.00886535644531
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.058874130249023
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6932488679885864
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 135
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 135 loss: 1.1657382451618712, loss_t2i: 1.4146954097474616, loss_mmu: 0.16990952178214988
+  Token-Norm: 60.05341720581055
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 8.028246879577637
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6904224157333374
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 136
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 136 loss: 1.0708900690078735, loss_t2i: 1.2879096859445174, loss_mmu: 0.2028115000575781
+  Token-Norm: 60.35527038574219
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.995213031768799
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6881900429725647
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 137
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 137 loss: 0.8723744361971816, loss_t2i: 1.0577353464129071, loss_mmu: 0.13093070732429624
+  Token-Norm: 60.400634765625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.967283725738525
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6849555969238281
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 138
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 138 loss: 1.0241638507383566, loss_t2i: 1.2512946363228064, loss_mmu: 0.11564060964155942
+  Token-Norm: 60.513771057128906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.9358696937561035
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6820971369743347
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 139
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 139 loss: 0.6381428801299384, loss_t2i: 0.7710557027409474, loss_mmu: 0.1064915475435555
+  Token-Norm: 60.459720611572266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.905089855194092
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6793319582939148
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 140
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 140 loss: 0.7798458778609832, loss_t2i: 0.9480154792157313, loss_mmu: 0.10716745327226818
+  Token-Norm: 60.47682571411133
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.872986316680908
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6766636967658997
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 141
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 141 loss: 0.9499271210903922, loss_t2i: 1.1557175060734153, loss_mmu: 0.12676550463462868
+  Token-Norm: 60.51434326171875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.840792179107666
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6737591624259949
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 142
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 142 loss: 0.8438270945722858, loss_t2i: 1.0186974376750488, loss_mmu: 0.14434563702282807
+  Token-Norm: 60.852012634277344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.80894136428833
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.670864462852478
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 143
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 143 loss: 0.77518738185366, loss_t2i: 0.9317703295188645, loss_mmu: 0.14885551575571299
+  Token-Norm: 61.03377151489258
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.7785749435424805
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6681235432624817
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 144
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 144 loss: 0.8860066868364811, loss_t2i: 1.0809922760042052, loss_mmu: 0.10606428802323838
+  Token-Norm: 61.05348587036133
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.749874591827393
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6654495000839233
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 145
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 145 loss: 1.0103323579144974, loss_t2i: 1.223330515747269, loss_mmu: 0.1583396646504601
+  Token-Norm: 61.04898452758789
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.729952335357666
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.661426842212677
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 146
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 146 loss: 1.2487616774936516, loss_t2i: 1.4147494255254667, loss_mmu: 0.5848105748494467
+  Token-Norm: 64.34636688232422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.763716220855713
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6597676873207092
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 147
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 147 loss: 0.8393146153539419, loss_t2i: 0.9641523541261753, loss_mmu: 0.33996359320978325
+  Token-Norm: 65.33094787597656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.723061561584473
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6591623425483704
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 148
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 148 loss: 0.9008614653721452, loss_t2i: 1.0741935813178618, loss_mmu: 0.20753287120411792
+  Token-Norm: 65.6239242553711
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.691930770874023
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6561462879180908
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 149
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 149 loss: 0.9281162479116271, loss_t2i: 1.1236748092342168, loss_mmu: 0.145881939601774
+  Token-Norm: 65.61370086669922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.658995151519775
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6532652974128723
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 150
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 150 loss: 0.7129671717993915, loss_t2i: 0.8662506703209752, loss_mmu: 0.09983312028149764
+  Token-Norm: 65.54801940917969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.62682580947876
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6504186391830444
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 151
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 151 loss: 0.8200588518132766, loss_t2i: 0.9898084537126124, loss_mmu: 0.14106042683124542
+  Token-Norm: 65.62313079833984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.597499370574951
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6477879285812378
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 152
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 152 loss: 0.7880993889799962, loss_t2i: 0.9505327416118234, loss_mmu: 0.13836594694294035
+  Token-Norm: 65.71964263916016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 7.587820529937744
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 0.6452229022979736
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 153
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 153 loss: 0.8577343031453589, loss_t2i: 1.0368129370423655, loss_mmu: 0.14141967970257005
+  Token-Norm: 65.95802307128906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 16.658639907836914
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.1732299327850342
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 154
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 154 loss: 0.5806616812478751, loss_t2i: 0.7001525838083277, loss_mmu: 0.10269801136261474
+  Token-Norm: 65.99210357666016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.670246124267578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.249548077583313
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 155
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 155 loss: 0.6234744770141939, loss_t2i: 0.759239251143299, loss_mmu: 0.08041532097073893
+  Token-Norm: 65.86964416503906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.096805572509766
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3150218725204468
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 156
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 156 loss: 0.767275244773676, loss_t2i: 0.9389110562236359, loss_mmu: 0.08073195324201758
+  Token-Norm: 65.76075744628906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.500659942626953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3864113092422485
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 157
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 157 loss: 0.7877102758114537, loss_t2i: 0.9596288184790561, loss_mmu: 0.10003603932758172
+  Token-Norm: 65.58385467529297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.50408935546875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4141558408737183
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 158
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 158 loss: 0.5832764264196157, loss_t2i: 0.6975708187868198, loss_mmu: 0.12609880231320858
+  Token-Norm: 65.94267272949219
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.531768798828125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4224350452423096
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 159
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 159 loss: 0.6602323208935559, loss_t2i: 0.7984191994182765, loss_mmu: 0.10748471451612811
+  Token-Norm: 66.10176849365234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.446496963500977
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4166795015335083
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 160
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 160 loss: 0.5636091825241843, loss_t2i: 0.6809111457938949, loss_mmu: 0.09440129060142984
+  Token-Norm: 66.09652709960938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.35692596435547
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4117062091827393
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 161
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 161 loss: 0.690437997225672, loss_t2i: 0.8279636776618039, loss_mmu: 0.1403352329895521
+  Token-Norm: 66.35614013671875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.27045440673828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4064009189605713
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 162
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 162 loss: 0.7871889794866244, loss_t2i: 0.953081082397451, loss_mmu: 0.12362050699690978
+  Token-Norm: 66.60436248779297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.193195343017578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.409773588180542
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 163
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 163 loss: 0.7875681909111639, loss_t2i: 0.9619691539943839, loss_mmu: 0.08996430590438347
+  Token-Norm: 66.6162109375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.109983444213867
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4037998914718628
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 164
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 164 loss: 0.9061311633170893, loss_t2i: 1.1005267773677285, loss_mmu: 0.128548615379259
+  Token-Norm: 66.77783966064453
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 18.02690315246582
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3973798751831055
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 165
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 165 loss: 0.6881866117473692, loss_t2i: 0.8430045068574449, loss_mmu: 0.06891493732109666
+  Token-Norm: 66.71519470214844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.942747116088867
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.390856385231018
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 166
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 166 loss: 0.64870854630135, loss_t2i: 0.7894293153658509, loss_mmu: 0.08582541486248374
+  Token-Norm: 66.73365020751953
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.86397361755371
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3849847316741943
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 167
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 167 loss: 0.6882684619631618, loss_t2i: 0.8423047780524939, loss_mmu: 0.07212315924698487
+  Token-Norm: 66.79661560058594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.78169059753418
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3786112070083618
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 168
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 168 loss: 0.7504383548318098, loss_t2i: 0.9217235158430412, loss_mmu: 0.06529764935839921
+  Token-Norm: 66.75729370117188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.786130905151367
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4009931087493896
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 169
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 169 loss: 0.7606844411153967, loss_t2i: 0.9233354922616854, loss_mmu: 0.11008019970419507
+  Token-Norm: 67.14454650878906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.72294807434082
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3950088024139404
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 170
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 170 loss: 0.9433638296710948, loss_t2i: 1.142076274768139, loss_mmu: 0.14851396154457083
+  Token-Norm: 68.05022430419922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.621484756469727
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.3911362886428833
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 171
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 171 loss: 1.150608350134765, loss_t2i: 1.3828138790170972, loss_mmu: 0.22178617989023527
+  Token-Norm: 68.49988555908203
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 17.984996795654297
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 1.4451910257339478
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 172
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 172 loss: 1.4138299313684304, loss_t2i: 1.5208341386169195, loss_mmu: 0.9858129632969698
+  Token-Norm: 71.43594360351562
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.12912368774414
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 2.370035171508789
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 173
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 173 loss: 0.775441613048315, loss_t2i: 0.9010530109517276, loss_mmu: 0.2729959754118075
+  Token-Norm: 72.0503921508789
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 57.26519775390625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 2.947697162628174
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 174
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 174 loss: 0.7299690850389501, loss_t2i: 0.8633713949626932, loss_mmu: 0.19635980979849896
+  Token-Norm: 72.2818374633789
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 59.09699249267578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.126887083053589
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 175
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 175 loss: 0.851372965456297, loss_t2i: 1.0029882976474862, loss_mmu: 0.24491157763016722
+  Token-Norm: 72.90567016601562
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 60.6367301940918
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.2912964820861816
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 176
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 176 loss: 0.7979882687019805, loss_t2i: 0.949825091365104, loss_mmu: 0.190640893454353
+  Token-Norm: 73.5660400390625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.29299545288086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.5353822708129883
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 177
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 177 loss: 0.6868840735405684, loss_t2i: 0.8335013675969094, loss_mmu: 0.10041482440040757
+  Token-Norm: 73.50685119628906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.47178268432617
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.602678060531616
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 178
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 178 loss: 0.7973233450514575, loss_t2i: 0.9703471808073422, loss_mmu: 0.10522794537246227
+  Token-Norm: 73.49542236328125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.52847290039062
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.677555799484253
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 179
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 179 loss: 0.6361117818548033, loss_t2i: 0.7808523708566403, loss_mmu: 0.057149407744873315
+  Token-Norm: 73.3696060180664
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.38079833984375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.668410062789917
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 180
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 180 loss: 0.756303116097115, loss_t2i: 0.9321935412396366, loss_mmu: 0.0527413547776329
+  Token-Norm: 73.19892120361328
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.23763275146484
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.787391424179077
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 181
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 181 loss: 0.6920040874586751, loss_t2i: 0.8521978583497306, loss_mmu: 0.0512289113830775
+  Token-Norm: 73.00212097167969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.52642822265625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.8220157623291016
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 182
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 182 loss: 0.798292562753583, loss_t2i: 0.9757778161050131, loss_mmu: 0.08835147592859964
+  Token-Norm: 73.0454330444336
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.70660400390625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.9616777896881104
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 183
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 183 loss: 0.9123678879501919, loss_t2i: 1.1038830472777288, loss_mmu: 0.1463071247562766
+  Token-Norm: 73.71377563476562
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.6870346069336
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.029689311981201
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 184
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 184 loss: 0.5991219865779082, loss_t2i: 0.7212899121611068, loss_mmu: 0.11045025483084221
+  Token-Norm: 73.88855743408203
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.74148559570312
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.041417598724365
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 185
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 185 loss: 0.5140755715159079, loss_t2i: 0.6186245960804323, loss_mmu: 0.0958793814255235
+  Token-Norm: 73.9245376586914
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.55412292480469
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.041407585144043
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 186
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 186 loss: 0.7434280978826185, loss_t2i: 0.9072891091151783, loss_mmu: 0.08798401325475425
+  Token-Norm: 73.91751861572266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.27168273925781
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.035787105560303
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 187
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 187 loss: 0.5649251508681724, loss_t2i: 0.6846900172919655, loss_mmu: 0.08586564417540406
+  Token-Norm: 74.05960845947266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.49909210205078
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.0795063972473145
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 188
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 188 loss: 0.5611480698765566, loss_t2i: 0.6846638985831911, loss_mmu: 0.06708468108748396
+  Token-Norm: 74.20121765136719
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.52542877197266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.09010124206543
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 189
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 189 loss: 0.4082549321077143, loss_t2i: 0.4994126468664035, loss_mmu: 0.043624016805551946
+  Token-Norm: 74.07760620117188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.72122955322266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.1559929847717285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 190
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 190 loss: 0.48787542327772826, loss_t2i: 0.597913448640611, loss_mmu: 0.04772326057233537
+  Token-Norm: 73.9229507446289
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.45382690429688
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.14039421081543
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 191
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 191 loss: 0.7981213140301406, loss_t2i: 0.9666310372995213, loss_mmu: 0.12408227054402232
+  Token-Norm: 74.34661865234375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.31661987304688
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.157749176025391
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 192
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 192 loss: 0.5353431022570779, loss_t2i: 0.6442570571477214, loss_mmu: 0.09968722433162232
+  Token-Norm: 74.72528076171875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.02191162109375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.153912544250488
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 193
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 193 loss: 0.4980198885702218, loss_t2i: 0.5964811674396818, loss_mmu: 0.10417470755055547
+  Token-Norm: 75.19020080566406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.9599380493164
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.170506000518799
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 194
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 194 loss: 0.7405215159524232, loss_t2i: 0.8967799880386641, loss_mmu: 0.11548760184086859
+  Token-Norm: 75.72178649902344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.64215087890625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.15092658996582
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 195
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 195 loss: 0.4695567979166905, loss_t2i: 0.5423241091581682, loss_mmu: 0.1784874921819816
+  Token-Norm: 77.86907196044922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.87674713134766
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.219502925872803
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 196
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 196 loss: 0.6719809026302149, loss_t2i: 0.8009847011805201, loss_mmu: 0.15596565965097398
+  Token-Norm: 78.41606903076172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.77381896972656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.221610069274902
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 197
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 197 loss: 0.559228551806882, loss_t2i: 0.6678302069970717, loss_mmu: 0.12482188696352144
+  Token-Norm: 78.78836822509766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.5155258178711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.2199811935424805
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 198
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 198 loss: 0.7109622680582106, loss_t2i: 0.8707936621115854, loss_mmu: 0.07163664302788675
+  Token-Norm: 78.66151428222656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.21590423583984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.2158050537109375
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 199
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 199 loss: 0.7742398497648537, loss_t2i: 0.934235783216233, loss_mmu: 0.13425606264111897
+  Token-Norm: 79.35222625732422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.06378936767578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.217748165130615
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 200
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 200 loss: 0.6137793553061783, loss_t2i: 0.7447334427852184, loss_mmu: 0.08996297254149492
+  Token-Norm: 79.79303741455078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.74887084960938
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.198920249938965
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 201
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 201 loss: 0.4885655796000113, loss_t2i: 0.5959565510662893, loss_mmu: 0.059001650544814765
+  Token-Norm: 79.73209381103516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.4339828491211
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.179073810577393
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 202
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 202 loss: 0.5140910369421666, loss_t2i: 0.6309371911435543, loss_mmu: 0.046706379391252995
+  Token-Norm: 79.6428451538086
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.12059020996094
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.1593918800354
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 203
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 203 loss: 0.4836047322411711, loss_t2i: 0.5871650131496912, loss_mmu: 0.06936358955378334
+  Token-Norm: 79.78207397460938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.2713623046875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.200777530670166
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 204
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 204 loss: 0.5896093229142328, loss_t2i: 0.7172268719878048, loss_mmu: 0.0791390699450858
+  Token-Norm: 80.03315734863281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.59485626220703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.271777629852295
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 205
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 205 loss: 1.6089623890196283, loss_t2i: 1.6246390636079013, loss_mmu: 1.5462554469704628
+  Token-Norm: 87.14437103271484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.5673828125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.4564127922058105
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 206
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 206 loss: 1.361066949243347, loss_t2i: 1.4775825611626108, loss_mmu: 0.8950043699393669
+  Token-Norm: 92.20520782470703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 69.75923919677734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.590285301208496
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 207
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 207 loss: 0.8081092916739484, loss_t2i: 0.9205559004719058, loss_mmu: 0.3583227790271242
+  Token-Norm: 92.51070404052734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 69.71012878417969
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.594532489776611
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 208
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 208 loss: 0.7471912718998889, loss_t2i: 0.8823118127572039, loss_mmu: 0.20670902946343025
+  Token-Norm: 92.47216796875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 69.5565414428711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.60172700881958
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 209
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 209 loss: 0.5763451157448193, loss_t2i: 0.6674240316109111, loss_mmu: 0.21202941130225858
+  Token-Norm: 92.34870147705078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 69.30054473876953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.599576950073242
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 210
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 210 loss: 0.6559508068021387, loss_t2i: 0.7904277295262242, loss_mmu: 0.11804305075202137
+  Token-Norm: 92.26504516601562
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 68.97974395751953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.57943868637085
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 211
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 211 loss: 0.6125933021539822, loss_t2i: 0.7375623175951963, loss_mmu: 0.11271718454857667
+  Token-Norm: 92.06930541992188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 68.6495590209961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.557532787322998
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 212
+100%|██████████| 48/48 [00:21<00:00,  2.20it/s]
+Epoch 212 loss: 0.7278401552854726, loss_t2i: 0.8839705255813897, loss_mmu: 0.10331865850215156
+  Token-Norm: 91.83560943603516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 68.32087707519531
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.53572416305542
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 213
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 213 loss: 0.9112507233706614, loss_t2i: 1.11359025114992, loss_mmu: 0.10189253545831889
+  Token-Norm: 91.7621841430664
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.99378204345703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.514562129974365
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 214
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 214 loss: 0.4081222472401957, loss_t2i: 0.48799239937216043, loss_mmu: 0.08864160867718358
+  Token-Norm: 91.60301208496094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.66793823242188
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.493083477020264
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 215
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 215 loss: 0.5377132296562195, loss_t2i: 0.6494554982831081, loss_mmu: 0.09074409810515742
+  Token-Norm: 91.49205017089844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.34386444091797
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.471649169921875
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 216
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 216 loss: 0.6289087670932835, loss_t2i: 0.7704693039607567, loss_mmu: 0.06266656708127509
+  Token-Norm: 91.21170806884766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.02157592773438
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.450276851654053
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 217
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 217 loss: 0.5620477412206432, loss_t2i: 0.6910581726115197, loss_mmu: 0.0460059610583509
+  Token-Norm: 90.87657928466797
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.73934173583984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.432768821716309
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 218
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 218 loss: 0.5182959424370589, loss_t2i: 0.6376423637654322, loss_mmu: 0.040910228776435055
+  Token-Norm: 90.49715423583984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.42079162597656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.411657810211182
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 219
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 219 loss: 0.6115677523581932, loss_t2i: 0.7548336780164391, loss_mmu: 0.038504038006067276
+  Token-Norm: 90.1529769897461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.10282897949219
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.390561103820801
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 220
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 220 loss: 0.4981972235060918, loss_t2i: 0.6127281018610423, loss_mmu: 0.0400736482309488
+  Token-Norm: 89.79263305664062
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.05237579345703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.409494400024414
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 221
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 221 loss: 0.43105899983008084, loss_t2i: 0.5302677971000472, loss_mmu: 0.03422376624075696
+  Token-Norm: 89.5034408569336
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.75463104248047
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.392095565795898
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 222
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 222 loss: 0.5674787895792784, loss_t2i: 0.6932472399979209, loss_mmu: 0.06440499194043998
+  Token-Norm: 89.32585906982422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.44002532958984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.371159076690674
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 223
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 223 loss: 0.515127405213813, loss_t2i: 0.6198291041073389, loss_mmu: 0.09632057060177128
+  Token-Norm: 89.49349212646484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.1915512084961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.370316028594971
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 224
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 224 loss: 0.7770116968701283, loss_t2i: 0.9229191087651998, loss_mmu: 0.1933819417220851
+  Token-Norm: 89.98749542236328
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.91023254394531
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.353491306304932
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 225
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 225 loss: 0.5405034723225981, loss_t2i: 0.6484172761362667, loss_mmu: 0.10884820644666131
+  Token-Norm: 90.03083038330078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.53072357177734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.440099716186523
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 226
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 226 loss: 0.6929186892230064, loss_t2i: 0.8187153624215474, loss_mmu: 0.1897319386868427
+  Token-Norm: 90.3531723022461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.65226745605469
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.453773498535156
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 227
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 227 loss: 3.2735718386247754, loss_t2i: 3.7500915760174394, loss_mmu: 1.3674926251793902
+  Token-Norm: 94.34300994873047
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.57105255126953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.5294694900512695
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 228
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 228 loss: 3.015369893362125, loss_t2i: 3.3758753010382256, loss_mmu: 1.5733479571839173
+  Token-Norm: 96.93184661865234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.5804672241211
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.532723426818848
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 229
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 229 loss: 9.391647120316824, loss_t2i: 10.576884349187216, loss_mmu: 4.650697539250056
+  Token-Norm: 101.21339416503906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 67.24687194824219
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.58222770690918
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 230
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 230 loss: 6.691284199555715, loss_t2i: 7.6686429878075915, loss_mmu: 2.7818487708767257
+  Token-Norm: 102.72756958007812
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.90869140625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.561844348907471
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 231
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 231 loss: 6.609415709972382, loss_t2i: 7.540615538756053, loss_mmu: 2.884615865846475
+  Token-Norm: 106.4864730834961
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.54785919189453
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.541275501251221
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 232
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 232 loss: 7.734632005294164, loss_t2i: 8.59208631515503, loss_mmu: 4.30481431633234
+  Token-Norm: 109.12779998779297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.19207763671875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.521847248077393
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 233
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 233 loss: 7.770090401172638, loss_t2i: 8.76890022555987, loss_mmu: 3.774850825468699
+  Token-Norm: 109.25238800048828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.87750244140625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.500380992889404
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 234
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 234 loss: 7.08699306845665, loss_t2i: 8.139906505743662, loss_mmu: 2.875339113175869
+  Token-Norm: 108.85469818115234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.56200408935547
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.478827953338623
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 235
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 235 loss: 6.757331599791844, loss_t2i: 7.871660937865575, loss_mmu: 2.300014041364193
+  Token-Norm: 108.49405670166016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.24798583984375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.457376003265381
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 236
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 236 loss: 5.8579167028268175, loss_t2i: 6.843881274263064, loss_mmu: 1.914058079322179
+  Token-Norm: 108.07758331298828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.93548583984375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.436027526855469
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 237
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 237 loss: 4.960755626360576, loss_t2i: 5.7279507120450335, loss_mmu: 1.8919744839270909
+  Token-Norm: 107.76911163330078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.72093963623047
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.467347621917725
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 238
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 238 loss: 3.379763846596082, loss_t2i: 3.8176562736431756, loss_mmu: 1.6281938838462036
+  Token-Norm: 107.64968872070312
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.4211654663086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.4481000900268555
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 239
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 239 loss: 2.172198367615541, loss_t2i: 2.3438266764084497, loss_mmu: 1.4856849672893684
+  Token-Norm: 107.55780029296875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.13003540039062
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.433775901794434
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 240
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 240 loss: 1.452012891570727, loss_t2i: 1.5282040188709896, loss_mmu: 1.1472482023139794
+  Token-Norm: 107.24151611328125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.2096939086914
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.485419273376465
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 241
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 241 loss: 1.102993146205942, loss_t2i: 1.1487955364088218, loss_mmu: 0.9197834872951111
+  Token-Norm: 107.04118347167969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.6666030883789
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.559665679931641
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 242
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 242 loss: 1.0167538281530142, loss_t2i: 1.0709965595354636, loss_mmu: 0.7997828007986149
+  Token-Norm: 106.79664611816406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.3536376953125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.679829120635986
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 243
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 243 loss: 0.9895097383608421, loss_t2i: 1.0367878079414368, loss_mmu: 0.8003973849117756
+  Token-Norm: 106.62789154052734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.83174133300781
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.708622455596924
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 244
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 244 loss: 0.8629405678560337, loss_t2i: 0.9146526497788727, loss_mmu: 0.6560921625544628
+  Token-Norm: 106.58525085449219
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.58526611328125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.702926158905029
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 245
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 245 loss: 0.6256910758093, loss_t2i: 0.6505496346702179, loss_mmu: 0.526256762444973
+  Token-Norm: 106.33956146240234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.26616668701172
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.681021690368652
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 246
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 246 loss: 1.172516915326317, loss_t2i: 1.3386372298312683, loss_mmu: 0.5080355480313301
+  Token-Norm: 106.29265594482422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.95348358154297
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.65867805480957
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 247
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 247 loss: 0.9532417279357711, loss_t2i: 1.0278612608090043, loss_mmu: 0.6547635135551294
+  Token-Norm: 107.87254333496094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.70939636230469
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.837518215179443
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 248
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 248 loss: 0.6689063310623169, loss_t2i: 0.7283842883383235, loss_mmu: 0.4309944612905383
+  Token-Norm: 107.91829681396484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.8742904663086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.908218860626221
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 249
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 249 loss: 0.5017068305363258, loss_t2i: 0.5554925145115703, loss_mmu: 0.2865640603316327
+  Token-Norm: 107.66902923583984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.02823638916016
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.950556755065918
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 250
+100%|██████████| 48/48 [00:22<00:00,  2.15it/s]
+Epoch 250 loss: 0.7329514875697593, loss_t2i: 0.8535184281645343, loss_mmu: 0.250683667914321
+  Token-Norm: 107.31298065185547
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.04383850097656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.964296340942383
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 251
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 251 loss: 0.6033622896453986, loss_t2i: 0.7037453220303481, loss_mmu: 0.2018300968532761
+  Token-Norm: 106.89474487304688
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.72859954833984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.941094875335693
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 252
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 252 loss: 0.8476024104747921, loss_t2i: 1.002131903078407, loss_mmu: 0.2294843701335291
+  Token-Norm: 106.67420959472656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.41364288330078
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.9177632331848145
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 253
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 253 loss: 0.6462203369786342, loss_t2i: 0.7592994295215855, loss_mmu: 0.1939039205511411
+  Token-Norm: 106.45555114746094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.09981536865234
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.8943963050842285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 254
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 254 loss: 0.6366890186133484, loss_t2i: 0.7621443587510536, loss_mmu: 0.1348676657459388
+  Token-Norm: 106.10750579833984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.93559265136719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.907046318054199
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 255
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 255 loss: 0.7591378702005992, loss_t2i: 0.9065772679168731, loss_mmu: 0.1693802326141546
+  Token-Norm: 105.73231506347656
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.63626098632812
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.885294437408447
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 256
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 256 loss: 0.6847131277900189, loss_t2i: 0.8026249678029368, loss_mmu: 0.21306571659321585
+  Token-Norm: 105.658935546875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.17693328857422
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.961067199707031
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 257
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 257 loss: 0.5674736654230704, loss_t2i: 0.6619926501298323, loss_mmu: 0.18939768561782935
+  Token-Norm: 105.4611587524414
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.91415405273438
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.940176486968994
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 258
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 258 loss: 0.6977590379926065, loss_t2i: 0.826429323797735, loss_mmu: 0.1830778568983078
+  Token-Norm: 105.22113037109375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.22669219970703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.0606369972229
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 259
+100%|██████████| 48/48 [00:22<00:00,  2.16it/s]
+Epoch 259 loss: 0.6764578614383936, loss_t2i: 0.8070439310201133, loss_mmu: 0.15411351877264678
+  Token-Norm: 104.91658782958984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.58765411376953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.11127233505249
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 260
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 260 loss: 0.5158228020494183, loss_t2i: 0.6243745955871418, loss_mmu: 0.08161560523634155
+  Token-Norm: 104.48987579345703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.77165985107422
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.144679546356201
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 261
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 261 loss: 0.6709921465565761, loss_t2i: 0.8106286831122512, loss_mmu: 0.11244597767169277
+  Token-Norm: 104.0396957397461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.58463287353516
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.160935878753662
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 262
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 262 loss: 0.5168739802514514, loss_t2i: 0.6191697902977467, loss_mmu: 0.1076906753393511
+  Token-Norm: 103.69163513183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.26923370361328
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1367363929748535
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 263
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 263 loss: 0.4988615824840963, loss_t2i: 0.6020258653443307, loss_mmu: 0.08620443288236856
+  Token-Norm: 103.32945251464844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.02045440673828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.131957530975342
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 264
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 264 loss: 0.5190265538015714, loss_t2i: 0.5844913061203746, loss_mmu: 0.2571674996288493
+  Token-Norm: 103.43009185791016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.8836669921875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1469011306762695
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 265
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 265 loss: 0.6360581337163845, loss_t2i: 0.6675468221850073, loss_mmu: 0.5101033089061578
+  Token-Norm: 107.42647552490234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.15815734863281
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.170024394989014
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 266
+100%|██████████| 48/48 [00:21<00:00,  2.19it/s]
+Epoch 266 loss: 0.5787630626776566, loss_t2i: 0.6716985397506505, loss_mmu: 0.2070211078195522
+  Token-Norm: 107.36925506591797
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.84693908691406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1455864906311035
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 267
+100%|██████████| 48/48 [00:21<00:00,  2.23it/s]
+Epoch 267 loss: 0.7509559525642544, loss_t2i: 0.9073552181168149, loss_mmu: 0.12535881740041077
+  Token-Norm: 107.06404113769531
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.53170013427734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.120954513549805
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 268
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 268 loss: 0.553564594204848, loss_t2i: 0.6579827895620838, loss_mmu: 0.13589177280664444
+  Token-Norm: 106.74287414550781
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.85413360595703
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1531524658203125
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 269
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 269 loss: 0.7058393193874508, loss_t2i: 0.827192084553341, loss_mmu: 0.22042817917341986
+  Token-Norm: 107.07972717285156
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.49873352050781
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.222910404205322
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 270
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 270 loss: 0.6798134334385395, loss_t2i: 0.8144118331450348, loss_mmu: 0.14141976623795927
+  Token-Norm: 106.71141052246094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 66.22328186035156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.205101490020752
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 271
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 271 loss: 0.482040790336517, loss_t2i: 0.582840550186423, loss_mmu: 0.07884173611334215
+  Token-Norm: 106.38931274414062
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.9049072265625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.180826187133789
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 272
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 272 loss: 0.8260668877822658, loss_t2i: 0.9940112688733885, loss_mmu: 0.15428927750326693
+  Token-Norm: 106.12800598144531
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.78002166748047
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.175195693969727
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 273
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 273 loss: 0.4682378289677824, loss_t2i: 0.5662482068097839, loss_mmu: 0.07619628469304492
+  Token-Norm: 105.770751953125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.47492218017578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.150971412658691
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 274
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 274 loss: 0.33060651703272015, loss_t2i: 0.396541859023273, loss_mmu: 0.06686512485612184
+  Token-Norm: 105.42465209960938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.45693969726562
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.168984889984131
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 275
+100%|██████████| 48/48 [00:22<00:00,  2.14it/s]
+Epoch 275 loss: 0.6245916458622863, loss_t2i: 0.751767476904206, loss_mmu: 0.11588828820579995
+  Token-Norm: 105.29572296142578
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 65.16104888916016
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.145841121673584
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 276
+100%|██████████| 48/48 [00:31<00:00,  1.51it/s]
+Epoch 276 loss: 0.8020745222068703, loss_t2i: 0.9854026328539476, loss_mmu: 0.06876199438314264
+  Token-Norm: 104.9569091796875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.84907531738281
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.121543884277344
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 277
+100%|██████████| 48/48 [00:57<00:00,  1.20s/it]
+Epoch 277 loss: 0.560333480204766, loss_t2i: 0.6882045390084386, loss_mmu: 0.04884919725979368
+  Token-Norm: 104.53003692626953
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.86654663085938
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.150776386260986
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 278
+100%|██████████| 48/48 [00:29<00:00,  1.61it/s]
+Epoch 278 loss: 0.6998286825449517, loss_t2i: 0.8540954748556638, loss_mmu: 0.08276147255674005
+  Token-Norm: 104.18545532226562
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.66940307617188
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.151540756225586
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 279
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 279 loss: 0.6043200074539831, loss_t2i: 0.7250573214453956, loss_mmu: 0.12137066685439397
+  Token-Norm: 104.0210189819336
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.888671875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.193185329437256
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 280
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 280 loss: 0.36187119223177433, loss_t2i: 0.4406499066390097, loss_mmu: 0.0467563061004815
+  Token-Norm: 103.63533020019531
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.58424377441406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.16877555847168
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 281
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 281 loss: 0.6973384608281776, loss_t2i: 0.858943359014423, loss_mmu: 0.05091881575450922
+  Token-Norm: 103.16854095458984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 64.27505493164062
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.144033908843994
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 282
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 282 loss: 0.6217805485551556, loss_t2i: 0.7445779287566742, loss_mmu: 0.13059097159809122
+  Token-Norm: 102.95655822753906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.97221374511719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.119760513305664
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 283
+100%|██████████| 48/48 [00:21<00:00,  2.19it/s]
+Epoch 283 loss: 0.6989453736071786, loss_t2i: 0.8004019640696546, loss_mmu: 0.29311896363894147
+  Token-Norm: 103.07575225830078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.676780700683594
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.099651336669922
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 284
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 284 loss: 0.5931634573886791, loss_t2i: 0.7046974537273248, loss_mmu: 0.1470274447153012
+  Token-Norm: 103.12495422363281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.467777252197266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1099371910095215
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 285
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 285 loss: 0.6309751026565209, loss_t2i: 0.7658233640637869, loss_mmu: 0.09158198077542086
+  Token-Norm: 102.95655059814453
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.68229293823242
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.141561985015869
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 286
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 286 loss: 0.5002130688323329, loss_t2i: 0.6010350918319697, loss_mmu: 0.09692493387653182
+  Token-Norm: 102.6434555053711
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.87717056274414
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.230679512023926
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 287
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 287 loss: 0.6144344564527273, loss_t2i: 0.7473912560380995, loss_mmu: 0.0826072166285788
+  Token-Norm: 102.48876953125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.6683464050293
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.218766212463379
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 288
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 288 loss: 0.43689337260245037, loss_t2i: 0.5275760416795189, loss_mmu: 0.07416263626267512
+  Token-Norm: 102.33723449707031
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.36418533325195
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.193866729736328
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 289
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 289 loss: 0.4907048046976949, loss_t2i: 0.5979989440529607, loss_mmu: 0.061528229736723006
+  Token-Norm: 101.99175262451172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 63.060787200927734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.168999671936035
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 290
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 290 loss: 0.46735403380201507, loss_t2i: 0.5616194589141136, loss_mmu: 0.09029229811858386
+  Token-Norm: 102.08895874023438
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.77293014526367
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.14511775970459
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 291
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 291 loss: 0.5274439242978891, loss_t2i: 0.6254291850685453, loss_mmu: 0.13550283395064375
+  Token-Norm: 102.47087097167969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.474517822265625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.120571613311768
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 292
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 292 loss: 0.6021881701890379, loss_t2i: 0.7330431327378998, loss_mmu: 0.07876828419587885
+  Token-Norm: 102.39163970947266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.17533493041992
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.096065044403076
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 293
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 293 loss: 0.4415850524868195, loss_t2i: 0.5371633155543046, loss_mmu: 0.05927191635904213
+  Token-Norm: 101.98696899414062
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.91831588745117
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.089620590209961
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 294
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 294 loss: 0.3583376407623291, loss_t2i: 0.4380611165543087, loss_mmu: 0.0394437113039506
+  Token-Norm: 101.69799041748047
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.95718002319336
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.101524353027344
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 295
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 295 loss: 0.5946804631967098, loss_t2i: 0.7312790521342928, loss_mmu: 0.048286008493353925
+  Token-Norm: 101.26921081542969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.32123565673828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.145153045654297
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 296
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 296 loss: 0.4345472593558952, loss_t2i: 0.530574533661517, loss_mmu: 0.05043812556929576
+  Token-Norm: 100.85541534423828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.775691986083984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.235185146331787
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 297
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 297 loss: 0.7437186480577415, loss_t2i: 0.9138130723731592, loss_mmu: 0.06334090415233125
+  Token-Norm: 100.72187805175781
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.84727478027344
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.247962951660156
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 298
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 298 loss: 0.5383053297021737, loss_t2i: 0.6545445998199284, loss_mmu: 0.07334820786491036
+  Token-Norm: 100.73126983642578
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.54954528808594
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.22308874130249
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 299
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 299 loss: 0.42606347318117815, loss_t2i: 0.5193700866657309, loss_mmu: 0.05283697360816101
+  Token-Norm: 100.49309539794922
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.25006103515625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.198083400726318
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 300
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 300 loss: 0.40991812424423796, loss_t2i: 0.5035803251472922, loss_mmu: 0.03526929569973921
+  Token-Norm: 100.12496185302734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.95199203491211
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.173194885253906
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 301
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 301 loss: 0.4336639034251372, loss_t2i: 0.5357459083315916, loss_mmu: 0.025335878036761034
+  Token-Norm: 99.70340728759766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.655189514160156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.148536205291748
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 302
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 302 loss: 0.28471593632518005, loss_t2i: 0.3473871559447919, loss_mmu: 0.03403103987996777
+  Token-Norm: 99.31730651855469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.30890655517578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.208363056182861
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 303
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 303 loss: 0.6906965668313205, loss_t2i: 0.8517438257113099, loss_mmu: 0.046507500868756324
+  Token-Norm: 99.02967071533203
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.071739196777344
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.187654972076416
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 304
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 304 loss: 0.5570246222972249, loss_t2i: 0.6809165119193494, loss_mmu: 0.06145699155361702
+  Token-Norm: 98.93736267089844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.77499008178711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.16285514831543
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 305
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 305 loss: 0.6324472861209264, loss_t2i: 0.7588710615915867, loss_mmu: 0.1267521733728548
+  Token-Norm: 99.33292388916016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.47930145263672
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.138150691986084
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 306
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 306 loss: 0.424921084040155, loss_t2i: 0.5141658644036701, loss_mmu: 0.06794196149955194
+  Token-Norm: 99.49471282958984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.18528366088867
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.1137871742248535
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 307
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 307 loss: 0.5207440169760957, loss_t2i: 0.6352479316604634, loss_mmu: 0.0627283661160618
+  Token-Norm: 99.26363372802734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.34918212890625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.171469211578369
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 308
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 308 loss: 0.5972148101621618, loss_t2i: 0.7274425155483186, loss_mmu: 0.07630389959861834
+  Token-Norm: 99.06546020507812
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.236961364746094
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.324197769165039
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 309
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 309 loss: 0.5690777814015746, loss_t2i: 0.6930701412881414, loss_mmu: 0.07310832547955215
+  Token-Norm: 99.02909088134766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.1023063659668
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.329852104187012
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 310
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 310 loss: 0.6766009603937467, loss_t2i: 0.830946279495644, loss_mmu: 0.05921953024032215
+  Token-Norm: 98.90748596191406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 62.12812423706055
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.365420341491699
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 311
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 311 loss: 0.5962121301175406, loss_t2i: 0.7253958799992688, loss_mmu: 0.07947708404390141
+  Token-Norm: 98.87606811523438
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.833961486816406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.342418670654297
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 312
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 312 loss: 0.4705896775315826, loss_t2i: 0.553619040409103, loss_mmu: 0.13847217293611416
+  Token-Norm: 99.58867645263672
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.56533432006836
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.333090782165527
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 313
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 313 loss: 0.6068998430855572, loss_t2i: 0.7442653664620593, loss_mmu: 0.05743768720033889
+  Token-Norm: 99.39075469970703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.87214660644531
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.399363040924072
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 314
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 314 loss: 0.5729101119407763, loss_t2i: 0.700668348891971, loss_mmu: 0.061877115396782756
+  Token-Norm: 99.14830017089844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.646514892578125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.378830909729004
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 315
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 315 loss: 0.7685053572058678, loss_t2i: 0.9146712730483463, loss_mmu: 0.18384164723102003
+  Token-Norm: 99.87073516845703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.35194778442383
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.353123188018799
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 316
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 316 loss: 0.5443004824143524, loss_t2i: 0.6255560612383609, loss_mmu: 0.2192781207462152
+  Token-Norm: 101.2033462524414
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 61.0626106262207
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.328111171722412
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 317
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 317 loss: 0.5961587565252557, loss_t2i: 0.7196763012131365, loss_mmu: 0.10208849364425987
+  Token-Norm: 101.66858673095703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 60.77613830566406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.302926540374756
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 318
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 318 loss: 0.6306256643729284, loss_t2i: 0.7711576019840626, loss_mmu: 0.06849790182119857
+  Token-Norm: 101.6197738647461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 60.48518371582031
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.277538776397705
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 319
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 319 loss: 0.5524782779781768, loss_t2i: 0.66638079417559, loss_mmu: 0.09686817341328909
+  Token-Norm: 101.45126342773438
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 60.19565963745117
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.25228214263916
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 320
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 320 loss: 0.6396638078925511, loss_t2i: 0.779940174620909, loss_mmu: 0.07855832299295192
+  Token-Norm: 101.36276245117188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 60.251853942871094
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.309074878692627
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 321
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 321 loss: 0.5527517956603939, loss_t2i: 0.6748401805137595, loss_mmu: 0.06439826561836526
+  Token-Norm: 101.2984848022461
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 59.980018615722656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.285486221313477
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 322
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 322 loss: 0.5836932313783715, loss_t2i: 0.7041799582657404, loss_mmu: 0.10174627458521475
+  Token-Norm: 101.39168548583984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 59.69322204589844
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.262632369995117
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 323
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 323 loss: 0.6159006032006195, loss_t2i: 0.7471772929420695, loss_mmu: 0.0907937745602491
+  Token-Norm: 101.44615173339844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 59.44648742675781
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.256102085113525
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 324
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 324 loss: 0.6697692081409817, loss_t2i: 0.8128313973041562, loss_mmu: 0.09752040298189968
+  Token-Norm: 101.83767700195312
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 59.16310119628906
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.23129940032959
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 325
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 325 loss: 0.42115361827503267, loss_t2i: 0.5085111849087601, loss_mmu: 0.07172335245801757
+  Token-Norm: 101.86030578613281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 58.87983322143555
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.206259727478027
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 326
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 326 loss: 0.5060367816283057, loss_t2i: 0.6167033798604583, loss_mmu: 0.06337037222692743
+  Token-Norm: 101.81089782714844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 58.59791564941406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.181342601776123
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 327
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 327 loss: 0.2885076591822629, loss_t2i: 0.35326109506422654, loss_mmu: 0.029493896387672674
+  Token-Norm: 101.5247573852539
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 58.317352294921875
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.156537055969238
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 328
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 328 loss: 0.3888990690854068, loss_t2i: 0.4712358057343711, loss_mmu: 0.05955207685474306
+  Token-Norm: 101.33805084228516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 58.03675842285156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.132302761077881
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 329
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 329 loss: 0.5176310547782729, loss_t2i: 0.6174888854147866, loss_mmu: 0.11819969517334054
+  Token-Norm: 101.77729034423828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 57.75895309448242
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.107748031616211
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 330
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 330 loss: 0.6351164899145564, loss_t2i: 0.7597261929574112, loss_mmu: 0.13667760509997606
+  Token-Norm: 102.25736236572266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 57.48247146606445
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.083303451538086
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 331
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 331 loss: 0.4067976064203928, loss_t2i: 0.4853222329014291, loss_mmu: 0.09269905557933573
+  Token-Norm: 102.73636627197266
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 57.207279205322266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.0589704513549805
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 332
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 332 loss: 0.43488568226651597, loss_t2i: 0.5250448997830972, loss_mmu: 0.07424879954972614
+  Token-Norm: 102.7750015258789
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 56.93345260620117
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.034759521484375
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 333
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 333 loss: 0.5165726819541305, loss_t2i: 0.6206961184701262, loss_mmu: 0.10007891233544797
+  Token-Norm: 103.23100280761719
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 56.66090774536133
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 5.010660171508789
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 334
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 334 loss: 0.5950663439774265, loss_t2i: 0.728371269768104, loss_mmu: 0.06184661720180884
+  Token-Norm: 103.09439849853516
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 56.389678955078125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.986677169799805
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 335
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 335 loss: 0.5570195371595522, loss_t2i: 0.6809299026499502, loss_mmu: 0.06137804991643255
+  Token-Norm: 103.10923767089844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 56.14931869506836
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.9714813232421875
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 336
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 336 loss: 0.6622842055124541, loss_t2i: 0.8133098664305484, loss_mmu: 0.058181444415822625
+  Token-Norm: 103.05421447753906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 55.88333511352539
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.9480414390563965
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 337
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 337 loss: 0.42293549988729257, loss_t2i: 0.5156291030580178, loss_mmu: 0.05216105808115875
+  Token-Norm: 102.81954956054688
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 55.61582946777344
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.9243574142456055
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 338
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 338 loss: 0.3896859414720287, loss_t2i: 0.48098765263178694, loss_mmu: 0.024479055195115507
+  Token-Norm: 102.55187225341797
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 55.34955596923828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.900783061981201
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 339
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 339 loss: 0.30361588277931634, loss_t2i: 0.3746912789453442, loss_mmu: 0.01931428289390169
+  Token-Norm: 102.11540222167969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 55.084571838378906
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.877324104309082
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 340
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 340 loss: 0.41532784667409334, loss_t2i: 0.5127823244741497, loss_mmu: 0.02550989916198887
+  Token-Norm: 101.78814697265625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.820858001708984
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.853980541229248
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 341
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 341 loss: 0.4356624004431069, loss_t2i: 0.5337964179925621, loss_mmu: 0.04312629407892624
+  Token-Norm: 102.32206726074219
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.558467864990234
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.830756187438965
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 342
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 342 loss: 0.5332227521187937, loss_t2i: 0.6459749251080211, loss_mmu: 0.0822140050586313
+  Token-Norm: 102.58855438232422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.29737091064453
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.807650089263916
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 343
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 343 loss: 0.9569039310639104, loss_t2i: 1.0684249526821077, loss_mmu: 0.5108197792433202
+  Token-Norm: 106.0818099975586
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.040523529052734
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.785887718200684
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 344
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 344 loss: 0.9008720081765205, loss_t2i: 1.0766476312807451, loss_mmu: 0.19776943155253926
+  Token-Norm: 107.28137969970703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.78194808959961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.763001918792725
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 345
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 345 loss: 0.5009544886803875, loss_t2i: 0.6074150035468241, loss_mmu: 0.07511237073534478
+  Token-Norm: 107.36284637451172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.52446746826172
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.740200996398926
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 346
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 346 loss: 0.33225929917534813, loss_t2i: 0.40560490436231095, loss_mmu: 0.03887688132817857
+  Token-Norm: 107.0350570678711
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.26827621459961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.717519283294678
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 347
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 347 loss: 0.4693279796823238, loss_t2i: 0.5719146978420516, loss_mmu: 0.05898103240178898
+  Token-Norm: 106.87298583984375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.012229919433594
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.695888996124268
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 348
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 348 loss: 0.8267251012536386, loss_t2i: 1.0147992649775308, loss_mmu: 0.07442837144481018
+  Token-Norm: 106.82113647460938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.75847625732422
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.673429012298584
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 349
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 349 loss: 0.6387068253631393, loss_t2i: 0.7796084485404814, loss_mmu: 0.0751002998246501
+  Token-Norm: 107.17979431152344
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.5391731262207
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.657039165496826
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 350
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 350 loss: 0.6533987506603202, loss_t2i: 0.7470353247675424, loss_mmu: 0.2788524073548615
+  Token-Norm: 109.58316040039062
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.790897369384766
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.661181449890137
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 351
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 351 loss: 0.4741827619727701, loss_t2i: 0.5551354804774746, loss_mmu: 0.1503718524860839
+  Token-Norm: 109.75933074951172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.60499954223633
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.647006511688232
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 352
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 352 loss: 0.5478083046618849, loss_t2i: 0.6624076721685318, loss_mmu: 0.08941078674979508
+  Token-Norm: 109.6858139038086
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.361751556396484
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.625081539154053
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 353
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 353 loss: 0.4092830322139586, loss_t2i: 0.4937386389744158, loss_mmu: 0.07146057273106028
+  Token-Norm: 109.4716567993164
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.10841751098633
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.6033501625061035
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 354
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 354 loss: 0.7232981445655847, loss_t2i: 0.8937500154909989, loss_mmu: 0.041490608835980915
+  Token-Norm: 109.17107391357422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.85920715332031
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.581371784210205
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 355
+100%|██████████| 48/48 [00:21<00:00,  2.24it/s]
+Epoch 355 loss: 0.635132891863274, loss_t2i: 0.767046267069721, loss_mmu: 0.1074793031051134
+  Token-Norm: 109.23590087890625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.6109733581543
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.559443950653076
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 356
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 356 loss: 0.7958825630679106, loss_t2i: 0.9700247738704396, loss_mmu: 0.09931367135141045
+  Token-Norm: 109.45182800292969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.389060974121094
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.539517879486084
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 357
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 357 loss: 0.5167997781342516, loss_t2i: 0.6186564138236766, loss_mmu: 0.10937320689360301
+  Token-Norm: 110.0283203125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.18711471557617
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.519261837005615
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 358
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 358 loss: 0.5375388417548189, loss_t2i: 0.658050001230246, loss_mmu: 0.05549420288298279
+  Token-Norm: 109.81578063964844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.942176818847656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.4978718757629395
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 359
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 359 loss: 0.5258822899777442, loss_t2i: 0.6406690338238453, loss_mmu: 0.06673527206294239
+  Token-Norm: 109.57157135009766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.69829559326172
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.476344108581543
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 360
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 360 loss: 0.47224422827518237, loss_t2i: 0.577404628371975, loss_mmu: 0.051602624162721135
+  Token-Norm: 109.33863830566406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.680912017822266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.489413738250732
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 361
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 361 loss: 0.5303919776148783, loss_t2i: 0.6511654659795264, loss_mmu: 0.04729798517655581
+  Token-Norm: 109.04352569580078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.539710998535156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.6284499168396
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 362
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 362 loss: 0.5656204148350904, loss_t2i: 0.690529816551134, loss_mmu: 0.06598278383413951
+  Token-Norm: 109.19983673095703
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.55379867553711
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.739534378051758
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 363
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 363 loss: 0.5472500537289307, loss_t2i: 0.6664307002016964, loss_mmu: 0.07052741824494053
+  Token-Norm: 109.40487670898438
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.33572769165039
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.719527721405029
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 364
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 364 loss: 0.516963629090848, loss_t2i: 0.639394926984096, loss_mmu: 0.027238359189747523
+  Token-Norm: 109.03460693359375
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.080604553222656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.696948051452637
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 365
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 365 loss: 0.3159868557510587, loss_t2i: 0.38874764818077284, loss_mmu: 0.024943634450513247
+  Token-Norm: 108.6778793334961
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.82648468017578
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.674463748931885
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 366
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 366 loss: 0.318747036314259, loss_t2i: 0.3929209194223707, loss_mmu: 0.022051485759827
+  Token-Norm: 108.33992767333984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.57358169555664
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.652087211608887
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 367
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 367 loss: 0.21840322888844335, loss_t2i: 0.26604101198608987, loss_mmu: 0.027852072681222733
+  Token-Norm: 107.9806900024414
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.4113655090332
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.650054931640625
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 368
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 368 loss: 0.26510651991702616, loss_t2i: 0.3226103307194232, loss_mmu: 0.03509121969303427
+  Token-Norm: 108.07615661621094
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.60551452636719
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.816752910614014
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 369
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 369 loss: 0.6100830112894376, loss_t2i: 0.7556217058057276, loss_mmu: 0.027928169263759628
+  Token-Norm: 107.83786010742188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.62501907348633
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.834439277648926
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 370
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 370 loss: 0.49805149556292844, loss_t2i: 0.6118699824437499, loss_mmu: 0.042777481712012864
+  Token-Norm: 107.76969909667969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.42392349243164
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.8163933753967285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 371
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 371 loss: 0.5872455423232168, loss_t2i: 0.6539653838068867, loss_mmu: 0.3203661423176527
+  Token-Norm: 110.18673706054688
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.414085388183594
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.843599796295166
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 372
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 372 loss: 0.4712686901135991, loss_t2i: 0.5563499249595528, loss_mmu: 0.13094370001150915
+  Token-Norm: 110.89476013183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 54.17481231689453
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.822465419769287
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 373
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 373 loss: 0.4312517765016916, loss_t2i: 0.526553243243446, loss_mmu: 0.05004584374061475
+  Token-Norm: 110.72882080078125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.915618896484375
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.7993950843811035
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 374
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 374 loss: 0.3148232097737491, loss_t2i: 0.38507513179987046, loss_mmu: 0.03381549921080781
+  Token-Norm: 110.33077239990234
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.656673431396484
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.77752161026001
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 375
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 375 loss: 0.427461149985902, loss_t2i: 0.5219886181488013, loss_mmu: 0.04935126427638655
+  Token-Norm: 110.03981018066406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.399444580078125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.755663871765137
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 376
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 376 loss: 0.6237128341648107, loss_t2i: 0.7666501783047958, loss_mmu: 0.05196339497342706
+  Token-Norm: 109.77611541748047
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 53.14382553100586
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.732935905456543
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 377
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 377 loss: 0.560907720006071, loss_t2i: 0.6806774244566137, loss_mmu: 0.08182886939418192
+  Token-Norm: 109.82830810546875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.88944625854492
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.710330963134766
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 378
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 378 loss: 0.6245675379953658, loss_t2i: 0.7734072057258649, loss_mmu: 0.029208794032456353
+  Token-Norm: 109.4929428100586
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.63629150390625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.687824726104736
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 379
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 379 loss: 0.3988355469579498, loss_t2i: 0.48581691113455844, loss_mmu: 0.05091006114768485
+  Token-Norm: 109.1573486328125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.38434982299805
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.665389537811279
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 380
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 380 loss: 0.47410313742390525, loss_t2i: 0.5694627159779581, loss_mmu: 0.09266481649441023
+  Token-Norm: 109.21387481689453
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.61471939086914
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.641000270843506
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 381
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 381 loss: 0.27092074618364376, loss_t2i: 0.3237510412679209, loss_mmu: 0.05959954434850564
+  Token-Norm: 109.17987823486328
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.51994705200195
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.627082824707031
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 382
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 382 loss: 0.5121851010868946, loss_t2i: 0.6224933721823618, loss_mmu: 0.07095200628585492
+  Token-Norm: 109.16326904296875
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.27098846435547
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.6054606437683105
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 383
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 383 loss: 0.5519541424776738, loss_t2i: 0.65870484461387, loss_mmu: 0.12495127935350563
+  Token-Norm: 110.15397644042969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 52.0650634765625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.588832378387451
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 384
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 384 loss: 0.48839900565023225, loss_t2i: 0.5841529918640541, loss_mmu: 0.10538301321988304
+  Token-Norm: 110.59687042236328
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.81772232055664
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.566882610321045
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 385
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 385 loss: 0.648280759419625, loss_t2i: 0.7703293236748626, loss_mmu: 0.16008643774936596
+  Token-Norm: 111.398681640625
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.569705963134766
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.54502534866333
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 386
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 386 loss: 0.5159279235328237, loss_t2i: 0.6172607316402718, loss_mmu: 0.11059664302350332
+  Token-Norm: 111.74830627441406
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.32282638549805
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.52326774597168
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 387
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 387 loss: 0.3778818475936229, loss_t2i: 0.46092835935996845, loss_mmu: 0.04569576422606284
+  Token-Norm: 111.61577606201172
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 51.07682418823242
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.501465320587158
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 388
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 388 loss: 0.675340399495326, loss_t2i: 0.8149508591547298, loss_mmu: 0.1168985104886815
+  Token-Norm: 112.09934997558594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.83162307739258
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.480964660644531
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 389
+100%|██████████| 48/48 [00:22<00:00,  2.18it/s]
+Epoch 389 loss: 0.4253708370185147, loss_t2i: 0.5083122806972824, loss_mmu: 0.09360502161628877
+  Token-Norm: 112.92699432373047
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.5883674621582
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.459532737731934
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 390
+100%|██████████| 48/48 [00:21<00:00,  2.23it/s]
+Epoch 390 loss: 0.5165035211248323, loss_t2i: 0.6229639865535622, loss_mmu: 0.09066158389517416
+  Token-Norm: 113.37301635742188
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.34623336791992
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.43818998336792
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 391
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 391 loss: 0.4451370822498575, loss_t2i: 0.5461271106614731, loss_mmu: 0.0411769053801739
+  Token-Norm: 112.97985076904297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 50.1052360534668
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.416949272155762
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 392
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 392 loss: 0.5020665230307108, loss_t2i: 0.6200789245582806, loss_mmu: 0.030016861477633938
+  Token-Norm: 112.58397674560547
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.86539077758789
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.395807266235352
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 393
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 393 loss: 0.6030737586940328, loss_t2i: 0.7425332753142962, loss_mmu: 0.04523564252303913
+  Token-Norm: 112.4039077758789
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.62670135498047
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.374767303466797
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 394
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 394 loss: 0.509105304062056, loss_t2i: 0.6162377524306066, loss_mmu: 0.08057543472386897
+  Token-Norm: 112.58736419677734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.38825225830078
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.354804039001465
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 395
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 395 loss: 0.4845712273575676, loss_t2i: 0.5935251964062142, loss_mmu: 0.04875530358791972
+  Token-Norm: 112.61466217041016
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.205177307128906
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.338241100311279
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 396
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 396 loss: 0.4675844064525639, loss_t2i: 0.5742511349963024, loss_mmu: 0.0409173895798934
+  Token-Norm: 112.30681610107422
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.98192596435547
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.320459842681885
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 397
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 397 loss: 0.46968651852027204, loss_t2i: 0.5801637836266309, loss_mmu: 0.027777358210490394
+  Token-Norm: 111.89866638183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.74807357788086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.299838066101074
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 398
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 398 loss: 0.49116806623836357, loss_t2i: 0.5956828744189503, loss_mmu: 0.07310876007735108
+  Token-Norm: 112.16043090820312
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.92080307006836
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.346460819244385
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 399
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 399 loss: 0.4423892020713538, loss_t2i: 0.5315924626775086, loss_mmu: 0.0855761346174404
+  Token-Norm: 112.95320892333984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.55136489868164
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.4576416015625
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 400
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 400 loss: 0.5660224331853291, loss_t2i: 0.6889706768949205, loss_mmu: 0.07422942710885157
+  Token-Norm: 112.81757354736328
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.66348648071289
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.50541877746582
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 401
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 401 loss: 0.5574736193520948, loss_t2i: 0.684510998466673, loss_mmu: 0.04932404860543708
+  Token-Norm: 112.8935317993164
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.42998504638672
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.484341621398926
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 402
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 402 loss: 0.2715531345650864, loss_t2i: 0.33007497280292836, loss_mmu: 0.037465758088122435
+  Token-Norm: 112.73004913330078
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 49.19337463378906
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.4628777503967285
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 403
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 403 loss: 0.30489841192805517, loss_t2i: 0.37171466946407844, loss_mmu: 0.03763334772277934
+  Token-Norm: 112.4548568725586
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.95784378051758
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.441510200500488
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 404
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 404 loss: 0.5099477194113812, loss_t2i: 0.6329178967086287, loss_mmu: 0.018066966760670766
+  Token-Norm: 112.09058380126953
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.72344970703125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.420248508453369
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 405
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 405 loss: 0.30985487619182095, loss_t2i: 0.3788110460639776, loss_mmu: 0.034030181860240795
+  Token-Norm: 111.70491790771484
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.490211486816406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.399094581604004
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 406
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 406 loss: 0.5231983075112415, loss_t2i: 0.6455940402520355, loss_mmu: 0.0336153197955961
+  Token-Norm: 111.51194763183594
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.25810623168945
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.37803840637207
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 407
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 407 loss: 0.6354520308862751, loss_t2i: 0.7477017123213349, loss_mmu: 0.18645324845177433
+  Token-Norm: 112.60905456542969
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 48.027164459228516
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.35709810256958
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 408
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 408 loss: 0.6003145009744912, loss_t2i: 0.7035689453283945, loss_mmu: 0.18729665922001004
+  Token-Norm: 114.46625518798828
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 47.797828674316406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.336124897003174
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 409
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 409 loss: 0.5372004935052246, loss_t2i: 0.6285715552900607, loss_mmu: 0.17171623181396475
+  Token-Norm: 115.77002716064453
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 47.5692024230957
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.315382957458496
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 410
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 410 loss: 0.6280885672895238, loss_t2i: 0.7671882159387072, loss_mmu: 0.0716899320250377
+  Token-Norm: 115.77730560302734
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 47.3415641784668
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.294747352600098
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 411
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 411 loss: 0.6068165527346233, loss_t2i: 0.7424459040436583, loss_mmu: 0.06429911530964698
+  Token-Norm: 115.83628845214844
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 47.114994049072266
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.274196147918701
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 412
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 412 loss: 0.8560467436133573, loss_t2i: 1.036975638436464, loss_mmu: 0.13233110696698228
+  Token-Norm: 116.12355041503906
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.889530181884766
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.253742218017578
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 413
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 413 loss: 0.6264472207403742, loss_t2i: 0.7622627074015327, loss_mmu: 0.08318522067080873
+  Token-Norm: 116.28153228759766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.66582107543945
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.233745098114014
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 414
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 414 loss: 0.41817417692315456, loss_t2i: 0.5121072112039352, loss_mmu: 0.042441982038629554
+  Token-Norm: 116.02629089355469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.44349670410156
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.213809967041016
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 415
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 415 loss: 0.5325772438663989, loss_t2i: 0.653605255841588, loss_mmu: 0.04846517646607632
+  Token-Norm: 115.79910278320312
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.22135543823242
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.193665981292725
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 416
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 416 loss: 0.5394992578852301, loss_t2i: 0.6538302006277567, loss_mmu: 0.08217544752794008
+  Token-Norm: 115.94650268554688
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.07129669189453
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.195108890533447
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 417
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 417 loss: 0.3653674195908631, loss_t2i: 0.4349843195135084, loss_mmu: 0.08689981283775221
+  Token-Norm: 116.21764373779297
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 45.85506057739258
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.175601959228516
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 418
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 418 loss: 0.42228577301527065, loss_t2i: 0.5089493043487892, loss_mmu: 0.07563160893429692
+  Token-Norm: 116.32840728759766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 45.63566970825195
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.155627250671387
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 419
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 419 loss: 0.5243754512436377, loss_t2i: 0.6454737348734246, loss_mmu: 0.03998226973150546
+  Token-Norm: 116.1883316040039
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 45.417213439941406
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.1357340812683105
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 420
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 420 loss: 0.3851164751201092, loss_t2i: 0.4741263375617564, loss_mmu: 0.029076981882099062
+  Token-Norm: 115.85701751708984
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 45.199790954589844
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.115935802459717
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 421
+100%|██████████| 48/48 [00:21<00:00,  2.25it/s]
+Epoch 421 loss: 0.3012889344827272, loss_t2i: 0.37260077747244696, loss_mmu: 0.016041539298991363
+  Token-Norm: 115.4900894165039
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 44.983482360839844
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.096240043640137
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 422
+100%|██████████| 48/48 [00:21<00:00,  2.26it/s]
+Epoch 422 loss: 0.4247177729945785, loss_t2i: 0.5263679276783174, loss_mmu: 0.0181170897752357
+  Token-Norm: 115.08586120605469
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 44.7681884765625
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.07663631439209
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 423
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 423 loss: 0.5586455525093091, loss_t2i: 0.6913295460496253, loss_mmu: 0.027909511836090434
+  Token-Norm: 114.63768768310547
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 44.55400466918945
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.057134628295898
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 424
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 424 loss: 0.5688872329774313, loss_t2i: 0.7053950880848182, loss_mmu: 0.02285576790260772
+  Token-Norm: 114.27082061767578
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 44.34084701538086
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.0377349853515625
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 425
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 425 loss: 0.49442862820190686, loss_t2i: 0.6130934774992056, loss_mmu: 0.019769211299717426
+  Token-Norm: 113.90164947509766
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 44.12866973876953
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.018416404724121
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 426
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 426 loss: 0.5784851890251351, loss_t2i: 0.716560385141444, loss_mmu: 0.02618438038431729
+  Token-Norm: 113.52029418945312
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 43.91752243041992
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.9991910457611084
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 427
+100%|██████████| 48/48 [00:21<00:00,  2.28it/s]
+Epoch 427 loss: 0.4853756111891319, loss_t2i: 0.5851045203356383, loss_mmu: 0.0864598980891363
+  Token-Norm: 113.81196594238281
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 43.715614318847656
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 3.9907643795013428
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 428
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 428 loss: 0.4216282883038123, loss_t2i: 0.4920708761007215, loss_mmu: 0.13985789311118424
+  Token-Norm: 115.72217559814453
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.53471755981445
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.217110633850098
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 429
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 429 loss: 0.4877007764298469, loss_t2i: 0.5852366326143965, loss_mmu: 0.09755731393427898
+  Token-Norm: 116.67904663085938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.78097152709961
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.25413179397583
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 430
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 430 loss: 0.5950477120932192, loss_t2i: 0.7186501884910589, loss_mmu: 0.10063777122801791
+  Token-Norm: 117.44959259033203
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.7529182434082
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.271829605102539
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 431
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 431 loss: 0.5039896603751307, loss_t2i: 0.6157668441301212, loss_mmu: 0.056880913742740326
+  Token-Norm: 117.52084350585938
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.817413330078125
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.294760704040527
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 432
+100%|██████████| 48/48 [00:21<00:00,  2.27it/s]
+Epoch 432 loss: 0.513471220251328, loss_t2i: 0.6330330250784755, loss_mmu: 0.03522395095205866
+  Token-Norm: 117.1778564453125
+  index_no_updates-Token-Norm: 475.90191650390625
+  LM-Head-Weight-Norm: 46.66303253173828
+  index_no_updates-LM-Head-Weight-Norm: 636.0464477539062
+  LM-Head-Bias-Norm: 4.27899694442749
+  index_no_updates-LM-Head-Bias-Norm: 200.17538452148438
+Epoch 433
+ 92%|█████████▏| 44/48 [00:19<00:01,  2.26it/s]

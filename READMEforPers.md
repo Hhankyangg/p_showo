@@ -1,0 +1,8 @@
+- `文件夹：configs` 中是模型相关参数，目前用 `configs/showo_demo.yaml`，模型使用绝对路径硬编码，因为相对路径会报错。
+- `文件夹：models` 中包含模型的 `py` 文件，我修改了 `models/modeling_showo.py` 第 32 行 `llm_model_path` 的默认值，修改相对路径为绝对路径，因为相对路径会报错。
+- `文件 pdata.py` 是数据集文件，有 t2i 和 mmu
+- `文件 test_mmu_p.ipynb` 测试 personalized mmu，还没有支持 lora
+- `文件 test_t2i_p.ipynb` 测试 personalized t2i，已支持 lora
+- `文件 train_p_only_t2i.ipynb` 训练 仅用 t2i 训练，对应的 `train_p_only_t2i.py` 作用相同，还没有支持 lora
+- `文件 train_p_v2_lora_merged.ipynb` 训练，用 lora + 新增词表 训练，数据用 mmu + t2i
+- `文件 train_p_v2.ipynb` 训练，用 新增词表 训练，数据用 mmu + t2i

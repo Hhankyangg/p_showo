@@ -19,7 +19,7 @@ IGNORE_INDEX = -100
 SYSTEM_PROMPT = "A chat between a curious user and an artificial intelligence assistant. " \
                 "The assistant gives helpful, detailed, and polite answers to the user's questions."
 
-data_root = '/home/arc/full_mcdata'
+data_root = '/home/hpyky/full_mcdata'
 data_w_cases_path = os.path.join(data_root, "test_concepts.json")
 with open(data_w_cases_path, "r") as f:
     data_w_cases = json.load(f)
@@ -177,7 +177,7 @@ def preprocess_v0(
 #         #         }
 #         #     ],
 #         #     "images": [
-#         #         "/home/arc/MulBench/two_concept/concept/train/BaGu/6.png"
+#         #         "/home/hpyky/MulBench/two_concept/concept/train/BaGu/6.png"
 #         #     ]
 #         # }
 #         image_path = conv_item["images"][0]
@@ -233,7 +233,7 @@ def preprocess_v0(
 #         #         }
 #         #     ],
 #         #     "images": [
-#         #         "/home/arc/MulBench/two_concept/concept/train/BaGu/6.png"
+#         #         "/home/hpyky/MulBench/two_concept/concept/train/BaGu/6.png"
 #         #     ]
 #         # }
 #         image_path = conv_item["images"][0]
@@ -603,11 +603,11 @@ class PersonalizedT2IDataset(Dataset):
                 
         assert len(self.img_paths) == 10, f"Expected 10 images for mcllava dataset, found {len(self.img_paths)}"
         
-        self.system_personalized_prompt = f"<{concept_name}> is "
-        for i in range(nums_new_token_i):
-            self.system_personalized_prompt += f"<token_{i}>"
-            if i == nums_new_token_i - 1:
-                self.system_personalized_prompt += "."
+        # self.system_personalized_prompt = f"<{concept_name}> is "
+        # for i in range(nums_new_token_i):
+        #     self.system_personalized_prompt += f"<token_{i}>"
+        #     if i == nums_new_token_i - 1:
+        #         self.system_personalized_prompt += "."
         
     def __len__(self):
         return len(self.img_paths)
@@ -620,8 +620,8 @@ class PersonalizedT2IDataset(Dataset):
         condition_text = f"A photo of <{self.concept_name}>."
         # condition_text = "Captain America's shield"
         item = {
-            "conditions": self.system_personalized_prompt + "\n" + condition_text,
-            # "conditions": condition_text,
+            # "conditions": self.system_personalized_prompt + "\n" + condition_text,
+            "conditions": condition_text,
             "images": img,  
         }
         # 对图像进行预处理（resize、ToTensor 等）

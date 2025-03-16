@@ -29,7 +29,7 @@ class Showo(ModelMixin, ConfigMixin):
             w_clip_vit,
             vocab_size,
             llm_vocab_size,
-            llm_model_path='/home/arc/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963',
+            llm_model_path='/home/hpyky/.cache/huggingface/hub/models--microsoft--phi-1_5/snapshots/675aa382d814580b22651a30acb1a585d7c25963',
             codebook_size=8192,
             num_vq_tokens=256,
             load_from_showo=True,
