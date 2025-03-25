@@ -374,6 +374,7 @@ class PersonalizedMMUDataset(Dataset):
                  data_root,
                  concept_name,
                  nums_new_token_i,
+                 new_tokens,
                  ):
         super(PersonalizedMMUDataset, self).__init__()
 
@@ -388,11 +389,14 @@ class PersonalizedMMUDataset(Dataset):
             if 'image' in item.keys():
                 self.list_data_dict.append(item)
         
-        self.system_personalized_prompt = f"<{concept_name}> is "
-        for i in range(nums_new_token_i):
-            self.system_personalized_prompt += f"<token_{i}>"
-            if i == nums_new_token_i - 1:
-                self.system_personalized_prompt += "."
+        if new_tokens:
+            self.system_personalized_prompt = f"<{concept_name}> is "
+            for i in range(nums_new_token_i):
+                self.system_personalized_prompt += f"<token_{i}>"
+                if i == nums_new_token_i - 1:
+                    self.system_personalized_prompt += "."
+        else:
+            self.system_personalized_prompt = ""
 
         for item in self.list_data_dict:
             item['conversations'][0]["value"] = self.system_personalized_prompt + "\n" + item['conversations'][0]["value"]
@@ -517,13 +521,15 @@ def get_personalized_mmu_dataloader(
         batch_size,
         num_workers,
         max_length,
+        new_tokens,
         nums_new_token_i: int = 16,
 ):
     train_dataset = PersonalizedMMUDataset(
         tokenizer,
         data_root,
         concept_name,
-        nums_new_token_i
+        nums_new_token_i,
+        new_tokens,
     )
     dataloader = torch.utils.data.DataLoader(
         train_dataset,

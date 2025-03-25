@@ -1,0 +1,1052 @@
+[2025-03-17 14:07:33,676] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.2
+[93m [WARNING] [0m using untested triton version (2.2.0), only 1.0.0 is known to be compatible
+Working with z of shape (1, 13, 16, 16) = 3328 dimensions.
+Look-up free quantizer with codebook size: 8192
+attention implementation:  sdpa
+showo.base_model.model.model.layers.0.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.0.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.0.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.0.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.0.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.0.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.0.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.0.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.0.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.0.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.1.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.1.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.1.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.1.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.1.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.2.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.2.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.2.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.2.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.2.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.3.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.3.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.3.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.3.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.3.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.4.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.4.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.4.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.4.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.4.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.5.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.5.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.5.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.5.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.5.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.6.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.6.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.6.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.6.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.6.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.7.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.7.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.7.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.7.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.7.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.8.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.8.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.8.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.8.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.8.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.9.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.9.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.9.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.9.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.9.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.10.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.10.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.10.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.10.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.10.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.11.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.11.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.11.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.11.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.11.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.12.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.12.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.12.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.12.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.12.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.13.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.13.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.13.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.13.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.13.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.14.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.14.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.14.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.14.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.14.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.15.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.15.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.15.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.15.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.15.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.16.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.16.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.16.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.16.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.16.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.17.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.17.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.17.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.17.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.17.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.18.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.18.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.18.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.18.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.18.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.19.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.19.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.19.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.19.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.19.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.20.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.20.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.20.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.20.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.20.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.21.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.21.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.21.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.21.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.21.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.22.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.22.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.22.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.22.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.22.mlp.fc2.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.q_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.q_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.k_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.k_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.v_proj.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.23.self_attn.v_proj.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.23.mlp.fc1.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.23.mlp.fc1.lora_B.default.weight requires_grad
+showo.base_model.model.model.layers.23.mlp.fc2.lora_A.default.weight requires_grad
+showo.base_model.model.model.layers.23.mlp.fc2.lora_B.default.weight requires_grad
+LoRA parameters: 6291456
+Trainable parameters: 6291456
+Epoch 1
+Epoch 1 loss: 7.519192790985107, loss_t2i: 7.519192790985107
+Epoch 2
+Epoch 2 loss: 8.659224128723144, loss_t2i: 8.659224128723144
+Epoch 3
+Epoch 3 loss: 13.3061918258667, loss_t2i: 13.3061918258667
+Epoch 4
+Epoch 4 loss: 11.475728988647461, loss_t2i: 11.475728988647461
+Epoch 5
+Epoch 5 loss: 11.430905151367188, loss_t2i: 11.430905151367188
+Epoch 6
+Epoch 6 loss: 11.093438911437989, loss_t2i: 11.093438911437989
+Epoch 7
+Epoch 7 loss: 10.218761825561524, loss_t2i: 10.218761825561524
+Epoch 8
+Epoch 8 loss: 10.363453674316407, loss_t2i: 10.363453674316407
+Epoch 9
+Epoch 9 loss: 9.673881149291992, loss_t2i: 9.673881149291992
+Epoch 10
+Epoch 10 loss: 9.454494667053222, loss_t2i: 9.454494667053222
+Epoch 11
+Epoch 11 loss: 9.28935947418213, loss_t2i: 9.28935947418213
+Epoch 12
+Epoch 12 loss: 8.857704830169677, loss_t2i: 8.857704830169677
+Epoch 13
+Epoch 13 loss: 9.28312644958496, loss_t2i: 9.28312644958496
+Epoch 14
+Epoch 14 loss: 9.145297241210937, loss_t2i: 9.145297241210937
+Epoch 15
+Epoch 15 loss: 8.864041137695313, loss_t2i: 8.864041137695313
+Epoch 16
+Epoch 16 loss: 8.9160400390625, loss_t2i: 8.9160400390625
+Epoch 17
+Epoch 17 loss: 8.71827564239502, loss_t2i: 8.71827564239502
+Epoch 18
+Epoch 18 loss: 9.086711883544922, loss_t2i: 9.086711883544922
+Epoch 19
+Epoch 19 loss: 9.041006278991699, loss_t2i: 9.041006278991699
+Epoch 20
+Epoch 20 loss: 8.96471290588379, loss_t2i: 8.96471290588379
+Epoch 21
+Epoch 21 loss: 8.868041801452637, loss_t2i: 8.868041801452637
+Epoch 22
+Epoch 22 loss: 8.7429988861084, loss_t2i: 8.7429988861084
+Epoch 23
+Epoch 23 loss: 8.90301055908203, loss_t2i: 8.90301055908203
+Epoch 24
+Epoch 24 loss: 8.74670867919922, loss_t2i: 8.74670867919922
+Epoch 25
+Epoch 25 loss: 8.839689254760742, loss_t2i: 8.839689254760742
+Epoch 26
+Epoch 26 loss: 8.73789348602295, loss_t2i: 8.73789348602295
+Epoch 27
+Epoch 27 loss: 8.784232139587402, loss_t2i: 8.784232139587402
+Epoch 28
+Epoch 28 loss: 8.403982543945313, loss_t2i: 8.403982543945313
+Epoch 29
+Epoch 29 loss: 8.522251892089844, loss_t2i: 8.522251892089844
+Epoch 30
+Epoch 30 loss: 8.429762840270996, loss_t2i: 8.429762840270996
+Epoch 31
+Epoch 31 loss: 8.469726467132569, loss_t2i: 8.469726467132569
+Epoch 32
+Epoch 32 loss: 8.40514440536499, loss_t2i: 8.40514440536499
+Epoch 33
+Epoch 33 loss: 8.206237411499023, loss_t2i: 8.206237411499023
+Epoch 34
+Epoch 34 loss: 8.527651596069337, loss_t2i: 8.527651596069337
+Epoch 35
+Epoch 35 loss: 8.540259170532227, loss_t2i: 8.540259170532227
+Epoch 36
+Epoch 36 loss: 8.418808937072754, loss_t2i: 8.418808937072754
+Epoch 37
+Epoch 37 loss: 8.512335968017577, loss_t2i: 8.512335968017577
+Epoch 38
+Epoch 38 loss: 8.461834335327149, loss_t2i: 8.461834335327149
+Epoch 39
+Epoch 39 loss: 9.461425304412842, loss_t2i: 9.461425304412842
+Epoch 40
+Epoch 40 loss: 9.494091796875, loss_t2i: 9.494091796875
+Epoch 41
+Epoch 41 loss: 9.863893127441406, loss_t2i: 9.863893127441406
+Epoch 42
+Epoch 42 loss: 9.593053817749023, loss_t2i: 9.593053817749023
+Epoch 43
+Epoch 43 loss: 9.381880187988282, loss_t2i: 9.381880187988282
+Epoch 44
+Epoch 44 loss: 9.121505546569825, loss_t2i: 9.121505546569825
+Epoch 45
+Epoch 45 loss: 9.113798522949219, loss_t2i: 9.113798522949219
+Epoch 46
+Epoch 46 loss: 9.169300079345703, loss_t2i: 9.169300079345703
+Epoch 47
+Epoch 47 loss: 8.994056129455567, loss_t2i: 8.994056129455567
+Epoch 48
+Epoch 48 loss: 8.663346195220948, loss_t2i: 8.663346195220948
+Epoch 49
+Epoch 49 loss: 8.81951847076416, loss_t2i: 8.81951847076416
+Epoch 50
+Epoch 50 loss: 8.650332641601562, loss_t2i: 8.650332641601562
+Epoch 51
+Epoch 51 loss: 8.850583267211913, loss_t2i: 8.850583267211913
+Epoch 52
+Epoch 52 loss: 8.470122909545898, loss_t2i: 8.470122909545898
+Epoch 53
+Epoch 53 loss: 8.542069053649902, loss_t2i: 8.542069053649902
+Epoch 54
+Epoch 54 loss: 8.514947700500489, loss_t2i: 8.514947700500489
+Epoch 55
+Epoch 55 loss: 8.28127679824829, loss_t2i: 8.28127679824829
+Epoch 56
+Epoch 56 loss: 8.276835727691651, loss_t2i: 8.276835727691651
+Epoch 57
+Epoch 57 loss: 8.296496391296387, loss_t2i: 8.296496391296387
+Epoch 58
+Epoch 58 loss: 8.343034934997558, loss_t2i: 8.343034934997558
+Epoch 59
+Epoch 59 loss: 8.2573899269104, loss_t2i: 8.2573899269104
+Epoch 60
+Epoch 60 loss: 8.25470199584961, loss_t2i: 8.25470199584961
+Epoch 61
+Epoch 61 loss: 8.454755973815917, loss_t2i: 8.454755973815917
+Epoch 62
+Epoch 62 loss: 8.245729064941406, loss_t2i: 8.245729064941406
+Epoch 63
+Epoch 63 loss: 8.253672122955322, loss_t2i: 8.253672122955322
+Epoch 64
+Epoch 64 loss: 8.38891544342041, loss_t2i: 8.38891544342041
+Epoch 65
+Epoch 65 loss: 8.201153564453126, loss_t2i: 8.201153564453126
+Epoch 66
+Epoch 66 loss: 8.121213626861572, loss_t2i: 8.121213626861572
+Epoch 67
+Epoch 67 loss: 8.147081565856933, loss_t2i: 8.147081565856933
+Epoch 68
+Epoch 68 loss: 8.46984806060791, loss_t2i: 8.46984806060791
+Epoch 69
+Epoch 69 loss: 8.377935028076172, loss_t2i: 8.377935028076172
+Epoch 70
+Epoch 70 loss: 8.288269329071046, loss_t2i: 8.288269329071046
+Epoch 71
+Epoch 71 loss: 8.224449157714844, loss_t2i: 8.224449157714844
+Epoch 72
+Epoch 72 loss: 8.373340034484864, loss_t2i: 8.373340034484864
+Epoch 73
+Epoch 73 loss: 8.267979145050049, loss_t2i: 8.267979145050049
+Epoch 74
+Epoch 74 loss: 8.362777137756348, loss_t2i: 8.362777137756348
+Epoch 75
+Epoch 75 loss: 8.357100296020509, loss_t2i: 8.357100296020509
+Epoch 76
+Epoch 76 loss: 8.32323865890503, loss_t2i: 8.32323865890503
+Epoch 77
+Epoch 77 loss: 8.178945350646973, loss_t2i: 8.178945350646973
+Epoch 78
+Epoch 78 loss: 8.253337287902832, loss_t2i: 8.253337287902832
+Epoch 79
+Epoch 79 loss: 8.301871490478515, loss_t2i: 8.301871490478515
+Epoch 80
+Epoch 80 loss: 8.203555393218995, loss_t2i: 8.203555393218995
+Epoch 81
+Epoch 81 loss: 8.390669059753417, loss_t2i: 8.390669059753417
+Epoch 82
+Epoch 82 loss: 8.259354782104491, loss_t2i: 8.259354782104491
+Epoch 83
+Epoch 83 loss: 8.0438401222229, loss_t2i: 8.0438401222229
+Epoch 84
+Epoch 84 loss: 8.221091651916504, loss_t2i: 8.221091651916504
+Epoch 85
+Epoch 85 loss: 8.119178867340088, loss_t2i: 8.119178867340088
+Epoch 86
+Epoch 86 loss: 8.352088165283202, loss_t2i: 8.352088165283202
+Epoch 87
+Epoch 87 loss: 8.242904567718506, loss_t2i: 8.242904567718506
+Epoch 88
+Epoch 88 loss: 8.110233592987061, loss_t2i: 8.110233592987061
+Epoch 89
+Epoch 89 loss: 8.091952800750732, loss_t2i: 8.091952800750732
+Epoch 90
+Epoch 90 loss: 8.348637866973878, loss_t2i: 8.348637866973878
+Epoch 91
+Epoch 91 loss: 7.990962123870849, loss_t2i: 7.990962123870849
+Epoch 92
+Epoch 92 loss: 8.20979290008545, loss_t2i: 8.20979290008545
+Epoch 93
+Epoch 93 loss: 8.157409858703613, loss_t2i: 8.157409858703613
+Epoch 94
+Epoch 94 loss: 8.173548126220703, loss_t2i: 8.173548126220703
+Epoch 95
+Epoch 95 loss: 8.144784069061279, loss_t2i: 8.144784069061279
+Epoch 96
+Epoch 96 loss: 8.165518856048584, loss_t2i: 8.165518856048584
+Epoch 97
+Epoch 97 loss: 8.162540721893311, loss_t2i: 8.162540721893311
+Epoch 98
+Epoch 98 loss: 8.291637802124024, loss_t2i: 8.291637802124024
+Epoch 99
+Epoch 99 loss: 8.197229862213135, loss_t2i: 8.197229862213135
+Epoch 100
+Epoch 100 loss: 8.068135833740234, loss_t2i: 8.068135833740234
+Epoch 101
+Epoch 101 loss: 7.960966968536377, loss_t2i: 7.960966968536377
+Epoch 102
+Epoch 102 loss: 8.123653411865234, loss_t2i: 8.123653411865234
+Epoch 103
+Epoch 103 loss: 8.151211071014405, loss_t2i: 8.151211071014405
+Epoch 104
+Epoch 104 loss: 8.174719047546386, loss_t2i: 8.174719047546386
+Epoch 105
+Epoch 105 loss: 8.342459774017334, loss_t2i: 8.342459774017334
+Epoch 106
+Epoch 106 loss: 8.323737144470215, loss_t2i: 8.323737144470215
+Epoch 107
+Epoch 107 loss: 8.232633209228515, loss_t2i: 8.232633209228515
+Epoch 108
+Epoch 108 loss: 8.18573522567749, loss_t2i: 8.18573522567749
+Epoch 109
+Epoch 109 loss: 8.192188262939453, loss_t2i: 8.192188262939453
+Epoch 110
+Epoch 110 loss: 8.205646133422851, loss_t2i: 8.205646133422851
+Epoch 111
+Epoch 111 loss: 8.227027416229248, loss_t2i: 8.227027416229248
+Epoch 112
+Epoch 112 loss: 8.052995014190675, loss_t2i: 8.052995014190675
+Epoch 113
+Epoch 113 loss: 8.036438846588135, loss_t2i: 8.036438846588135
+Epoch 114
+Epoch 114 loss: 8.186138439178468, loss_t2i: 8.186138439178468
+Epoch 115
+Epoch 115 loss: 8.16709270477295, loss_t2i: 8.16709270477295
+Epoch 116
+Epoch 116 loss: 8.121709156036378, loss_t2i: 8.121709156036378
+Epoch 117
+Epoch 117 loss: 8.197893810272216, loss_t2i: 8.197893810272216
+Epoch 118
+Epoch 118 loss: 8.098201179504395, loss_t2i: 8.098201179504395
+Epoch 119
+Epoch 119 loss: 8.081333446502686, loss_t2i: 8.081333446502686
+Epoch 120
+Epoch 120 loss: 8.112699890136719, loss_t2i: 8.112699890136719
+Epoch 121
+Epoch 121 loss: 8.081243801116944, loss_t2i: 8.081243801116944
+Epoch 122
+Epoch 122 loss: 8.123398590087891, loss_t2i: 8.123398590087891
+Epoch 123
+Epoch 123 loss: 8.232494640350343, loss_t2i: 8.232494640350343
+Epoch 124
+Epoch 124 loss: 8.25903549194336, loss_t2i: 8.25903549194336
+Epoch 125
+Epoch 125 loss: 8.160909080505371, loss_t2i: 8.160909080505371
+Epoch 126
+Epoch 126 loss: 8.170177841186524, loss_t2i: 8.170177841186524
+Epoch 127
+Epoch 127 loss: 8.25194854736328, loss_t2i: 8.25194854736328
+Epoch 128
+Epoch 128 loss: 8.139084243774414, loss_t2i: 8.139084243774414
+Epoch 129
+Epoch 129 loss: 8.158106231689453, loss_t2i: 8.158106231689453
+Epoch 130
+Epoch 130 loss: 8.088307857513428, loss_t2i: 8.088307857513428
+Epoch 131
+Epoch 131 loss: 8.123358917236327, loss_t2i: 8.123358917236327
+Epoch 132
+Epoch 132 loss: 8.105982303619385, loss_t2i: 8.105982303619385
+Epoch 133
+Epoch 133 loss: 8.080037879943848, loss_t2i: 8.080037879943848
+Epoch 134
+Epoch 134 loss: 7.980665016174316, loss_t2i: 7.980665016174316
+Epoch 135
+Epoch 135 loss: 8.170086288452149, loss_t2i: 8.170086288452149
+Epoch 136
+Epoch 136 loss: 8.077324962615966, loss_t2i: 8.077324962615966
+Epoch 137
+Epoch 137 loss: 7.929776191711426, loss_t2i: 7.929776191711426
+Epoch 138
+Epoch 138 loss: 8.153946113586425, loss_t2i: 8.153946113586425
+Epoch 139
+Epoch 139 loss: 8.22586441040039, loss_t2i: 8.22586441040039
+Epoch 140
+Epoch 140 loss: 8.065748596191407, loss_t2i: 8.065748596191407
+Epoch 141
+Epoch 141 loss: 8.066584491729737, loss_t2i: 8.066584491729737
+Epoch 142
+Epoch 142 loss: 8.043586254119873, loss_t2i: 8.043586254119873
+Epoch 143
+Epoch 143 loss: 8.112599945068359, loss_t2i: 8.112599945068359
+Epoch 144
+Epoch 144 loss: 8.277159118652344, loss_t2i: 8.277159118652344
+Epoch 145
+Epoch 145 loss: 8.194523429870605, loss_t2i: 8.194523429870605
+Epoch 146
+Epoch 146 loss: 8.208112621307373, loss_t2i: 8.208112621307373
+Epoch 147
+Epoch 147 loss: 8.076969432830811, loss_t2i: 8.076969432830811
+Epoch 148
+Epoch 148 loss: 8.074779510498047, loss_t2i: 8.074779510498047
+Epoch 149
+Epoch 149 loss: 7.998105430603028, loss_t2i: 7.998105430603028
+Epoch 150
+Epoch 150 loss: 8.123042678833007, loss_t2i: 8.123042678833007
+Epoch 151
+Epoch 151 loss: 8.147780227661134, loss_t2i: 8.147780227661134
+Epoch 152
+Epoch 152 loss: 8.236885738372802, loss_t2i: 8.236885738372802
+Epoch 153
+Epoch 153 loss: 8.137304592132569, loss_t2i: 8.137304592132569
+Epoch 154
+Epoch 154 loss: 8.129088306427002, loss_t2i: 8.129088306427002
+Epoch 155
+Epoch 155 loss: 8.070832061767579, loss_t2i: 8.070832061767579
+Epoch 156
+Epoch 156 loss: 8.099514961242676, loss_t2i: 8.099514961242676
+Epoch 157
+Epoch 157 loss: 8.09295482635498, loss_t2i: 8.09295482635498
+Epoch 158
+Epoch 158 loss: 8.067553329467774, loss_t2i: 8.067553329467774
+Epoch 159
+Epoch 159 loss: 8.104060173034668, loss_t2i: 8.104060173034668
+Epoch 160
+Epoch 160 loss: 8.29041576385498, loss_t2i: 8.29041576385498
+Epoch 161
+Epoch 161 loss: 8.123639106750488, loss_t2i: 8.123639106750488
+Epoch 162
+Epoch 162 loss: 8.150542736053467, loss_t2i: 8.150542736053467
+Epoch 163
+Epoch 163 loss: 8.074635028839111, loss_t2i: 8.074635028839111
+Epoch 164
+Epoch 164 loss: 8.127894973754882, loss_t2i: 8.127894973754882
+Epoch 165
+Epoch 165 loss: 8.255925941467286, loss_t2i: 8.255925941467286
+Epoch 166
+Epoch 166 loss: 8.192739391326905, loss_t2i: 8.192739391326905
+Epoch 167
+Epoch 167 loss: 8.19860773086548, loss_t2i: 8.19860773086548
+Epoch 168
+Epoch 168 loss: 8.175564289093018, loss_t2i: 8.175564289093018
+Epoch 169
+Epoch 169 loss: 8.244229698181153, loss_t2i: 8.244229698181153
+Epoch 170
+Epoch 170 loss: 8.012323379516602, loss_t2i: 8.012323379516602
+Epoch 171
+Epoch 171 loss: 8.079077816009521, loss_t2i: 8.079077816009521
+Epoch 172
+Epoch 172 loss: 8.256315803527832, loss_t2i: 8.256315803527832
+Epoch 173
+Epoch 173 loss: 8.236374855041504, loss_t2i: 8.236374855041504
+Epoch 174
+Epoch 174 loss: 7.932867050170898, loss_t2i: 7.932867050170898
+Epoch 175
+Epoch 175 loss: 8.322290420532227, loss_t2i: 8.322290420532227
+Epoch 176
+Epoch 176 loss: 8.411377239227296, loss_t2i: 8.411377239227296
+Epoch 177
+Epoch 177 loss: 8.280993556976318, loss_t2i: 8.280993556976318
+Epoch 178
+Epoch 178 loss: 8.135800552368163, loss_t2i: 8.135800552368163
+Epoch 179
+Epoch 179 loss: 8.011678218841553, loss_t2i: 8.011678218841553
+Epoch 180
+Epoch 180 loss: 8.23394021987915, loss_t2i: 8.23394021987915
+Epoch 181
+Epoch 181 loss: 8.126289558410644, loss_t2i: 8.126289558410644
+Epoch 182
+Epoch 182 loss: 8.197515678405761, loss_t2i: 8.197515678405761
+Epoch 183
+Epoch 183 loss: 8.079038333892822, loss_t2i: 8.079038333892822
+Epoch 184
+Epoch 184 loss: 8.13709077835083, loss_t2i: 8.13709077835083
+Epoch 185
+Epoch 185 loss: 8.152742290496827, loss_t2i: 8.152742290496827
+Epoch 186
+Epoch 186 loss: 8.167669105529786, loss_t2i: 8.167669105529786
+Epoch 187
+Epoch 187 loss: 8.040528678894043, loss_t2i: 8.040528678894043
+Epoch 188
+Epoch 188 loss: 8.06254243850708, loss_t2i: 8.06254243850708
+Epoch 189
+Epoch 189 loss: 8.134650421142577, loss_t2i: 8.134650421142577
+Epoch 190
+Epoch 190 loss: 8.003458499908447, loss_t2i: 8.003458499908447
+Epoch 191
+Epoch 191 loss: 8.113409519195557, loss_t2i: 8.113409519195557
+Epoch 192
+Epoch 192 loss: 8.205174446105957, loss_t2i: 8.205174446105957
+Epoch 193
+Epoch 193 loss: 8.194483470916747, loss_t2i: 8.194483470916747
+Epoch 194
+Epoch 194 loss: 8.05828037261963, loss_t2i: 8.05828037261963
+Epoch 195
+Epoch 195 loss: 8.088562107086181, loss_t2i: 8.088562107086181
+Epoch 196
+Epoch 196 loss: 7.835361957550049, loss_t2i: 7.835361957550049
+Epoch 197
+Epoch 197 loss: 7.815749454498291, loss_t2i: 7.815749454498291
+Epoch 198
+Epoch 198 loss: 8.108953666687011, loss_t2i: 8.108953666687011
+Epoch 199
+Epoch 199 loss: 8.248583984375, loss_t2i: 8.248583984375
+Epoch 200
+Epoch 200 loss: 8.088123893737793, loss_t2i: 8.088123893737793
+Epoch 201
+Epoch 201 loss: 8.081308937072754, loss_t2i: 8.081308937072754
+Epoch 202
+Epoch 202 loss: 8.136235237121582, loss_t2i: 8.136235237121582
+Epoch 203
+Epoch 203 loss: 8.060147380828857, loss_t2i: 8.060147380828857
+Epoch 204
+Epoch 204 loss: 7.934889602661133, loss_t2i: 7.934889602661133
+Epoch 205
+Epoch 205 loss: 7.900360202789306, loss_t2i: 7.900360202789306
+Epoch 206
+Epoch 206 loss: 7.93187370300293, loss_t2i: 7.93187370300293
+Epoch 207
+Epoch 207 loss: 8.16576919555664, loss_t2i: 8.16576919555664
+Epoch 208
+Epoch 208 loss: 8.127923965454102, loss_t2i: 8.127923965454102
+Epoch 209
+Epoch 209 loss: 8.25595531463623, loss_t2i: 8.25595531463623
+Epoch 210
+Epoch 210 loss: 7.997984600067139, loss_t2i: 7.997984600067139
+Epoch 211
+Epoch 211 loss: 8.107290458679199, loss_t2i: 8.107290458679199
+Epoch 212
+Epoch 212 loss: 8.071320343017579, loss_t2i: 8.071320343017579
+Epoch 213
+Epoch 213 loss: 8.135053730010986, loss_t2i: 8.135053730010986
+Epoch 214
+Epoch 214 loss: 7.908945941925049, loss_t2i: 7.908945941925049
+Epoch 215
+Epoch 215 loss: 7.964021110534668, loss_t2i: 7.964021110534668
+Epoch 216
+Epoch 216 loss: 8.060866451263427, loss_t2i: 8.060866451263427
+Epoch 217
+Epoch 217 loss: 8.080512237548827, loss_t2i: 8.080512237548827
+Epoch 218
+Epoch 218 loss: 7.961788940429687, loss_t2i: 7.961788940429687
+Epoch 219
+Epoch 219 loss: 8.035329818725586, loss_t2i: 8.035329818725586
+Epoch 220
+Epoch 220 loss: 7.9144268989562985, loss_t2i: 7.9144268989562985
+Epoch 221
+Epoch 221 loss: 8.309743690490723, loss_t2i: 8.309743690490723
+Epoch 222
+Epoch 222 loss: 8.334576988220215, loss_t2i: 8.334576988220215
+Epoch 223
+Epoch 223 loss: 8.16732120513916, loss_t2i: 8.16732120513916
+Epoch 224
+Epoch 224 loss: 8.357511901855469, loss_t2i: 8.357511901855469
+Epoch 225
+Epoch 225 loss: 8.121464157104493, loss_t2i: 8.121464157104493
+Epoch 226
+Epoch 226 loss: 8.074549102783203, loss_t2i: 8.074549102783203
+Epoch 227
+Epoch 227 loss: 8.16144437789917, loss_t2i: 8.16144437789917
+Epoch 228
+Epoch 228 loss: 8.187565898895263, loss_t2i: 8.187565898895263
+Epoch 229
+Epoch 229 loss: 7.818411254882813, loss_t2i: 7.818411254882813
+Epoch 230
+Epoch 230 loss: 8.039321136474609, loss_t2i: 8.039321136474609
+Epoch 231
+Epoch 231 loss: 8.12459306716919, loss_t2i: 8.12459306716919
+Epoch 232
+Epoch 232 loss: 8.113447189331055, loss_t2i: 8.113447189331055
+Epoch 233
+Epoch 233 loss: 8.026826858520508, loss_t2i: 8.026826858520508
+Epoch 234
+Epoch 234 loss: 8.039650058746338, loss_t2i: 8.039650058746338
+Epoch 235
+Epoch 235 loss: 7.9336625099182125, loss_t2i: 7.9336625099182125
+Epoch 236
+Epoch 236 loss: 8.283083534240722, loss_t2i: 8.283083534240722
+Epoch 237
+Epoch 237 loss: 8.236262130737305, loss_t2i: 8.236262130737305
+Epoch 238
+Epoch 238 loss: 8.172866153717042, loss_t2i: 8.172866153717042
+Epoch 239
+Epoch 239 loss: 7.947847747802735, loss_t2i: 7.947847747802735
+Epoch 240
+Epoch 240 loss: 8.044016933441162, loss_t2i: 8.044016933441162
+Epoch 241
+Epoch 241 loss: 8.042843914031982, loss_t2i: 8.042843914031982
+Epoch 242
+Epoch 242 loss: 8.089694213867187, loss_t2i: 8.089694213867187
+Epoch 243
+Epoch 243 loss: 8.097940731048585, loss_t2i: 8.097940731048585
+Epoch 244
+Epoch 244 loss: 8.063458728790284, loss_t2i: 8.063458728790284
+Epoch 245
+Epoch 245 loss: 8.087889766693115, loss_t2i: 8.087889766693115
+Epoch 246
+Epoch 246 loss: 8.099935150146484, loss_t2i: 8.099935150146484
+Epoch 247
+Epoch 247 loss: 7.941744422912597, loss_t2i: 7.941744422912597
+Epoch 248
+Epoch 248 loss: 8.04188642501831, loss_t2i: 8.04188642501831
+Epoch 249
+Epoch 249 loss: 7.9686408042907715, loss_t2i: 7.9686408042907715
+Epoch 250
+Epoch 250 loss: 8.08537483215332, loss_t2i: 8.08537483215332
+Epoch 251
+Epoch 251 loss: 8.102699279785156, loss_t2i: 8.102699279785156
+Epoch 252
+Epoch 252 loss: 7.913402843475342, loss_t2i: 7.913402843475342
+Epoch 253
+Epoch 253 loss: 8.20531759262085, loss_t2i: 8.20531759262085
+Epoch 254
+Epoch 254 loss: 8.105954837799072, loss_t2i: 8.105954837799072
+Epoch 255
+Epoch 255 loss: 8.119032955169677, loss_t2i: 8.119032955169677
+Epoch 256
+Epoch 256 loss: 7.942825698852539, loss_t2i: 7.942825698852539
+Epoch 257
+Epoch 257 loss: 8.098338222503662, loss_t2i: 8.098338222503662
+Epoch 258
+Epoch 258 loss: 8.049150753021241, loss_t2i: 8.049150753021241
+Epoch 259
+Epoch 259 loss: 8.107252216339111, loss_t2i: 8.107252216339111
+Epoch 260
+Epoch 260 loss: 8.312918090820313, loss_t2i: 8.312918090820313
+Epoch 261
+Epoch 261 loss: 8.189265060424805, loss_t2i: 8.189265060424805
+Epoch 262
+Epoch 262 loss: 7.971232795715332, loss_t2i: 7.971232795715332
+Epoch 263
+Epoch 263 loss: 8.201964473724365, loss_t2i: 8.201964473724365
+Epoch 264
+Epoch 264 loss: 8.333497047424316, loss_t2i: 8.333497047424316
+Epoch 265
+Epoch 265 loss: 8.094747161865234, loss_t2i: 8.094747161865234
+Epoch 266
+Epoch 266 loss: 7.9885307312011715, loss_t2i: 7.9885307312011715
+Epoch 267
+Epoch 267 loss: 7.971333026885986, loss_t2i: 7.971333026885986
+Epoch 268
+Epoch 268 loss: 8.067362594604493, loss_t2i: 8.067362594604493
+Epoch 269
+Epoch 269 loss: 8.17361068725586, loss_t2i: 8.17361068725586
+Epoch 270
+Epoch 270 loss: 8.199701976776122, loss_t2i: 8.199701976776122
+Epoch 271
+Epoch 271 loss: 8.115880393981934, loss_t2i: 8.115880393981934
+Epoch 272
+Epoch 272 loss: 8.229656219482422, loss_t2i: 8.229656219482422
+Epoch 273
+Epoch 273 loss: 8.267577362060546, loss_t2i: 8.267577362060546
+Epoch 274
+Epoch 274 loss: 8.18756103515625, loss_t2i: 8.18756103515625
+Epoch 275
+Epoch 275 loss: 8.020872211456298, loss_t2i: 8.020872211456298
+Epoch 276
+Epoch 276 loss: 8.047788906097413, loss_t2i: 8.047788906097413
+Epoch 277
+Epoch 277 loss: 8.030910396575928, loss_t2i: 8.030910396575928
+Epoch 278
+Epoch 278 loss: 7.964375591278076, loss_t2i: 7.964375591278076
+Epoch 279
+Epoch 279 loss: 8.009070110321044, loss_t2i: 8.009070110321044
+Epoch 280
+Epoch 280 loss: 7.93294849395752, loss_t2i: 7.93294849395752
+Epoch 281
+Epoch 281 loss: 8.077700424194337, loss_t2i: 8.077700424194337
+Epoch 282
+Epoch 282 loss: 8.110301780700684, loss_t2i: 8.110301780700684
+Epoch 283
+Epoch 283 loss: 8.178750038146973, loss_t2i: 8.178750038146973
+Epoch 284
+Epoch 284 loss: 8.036054706573486, loss_t2i: 8.036054706573486
+Epoch 285
+Epoch 285 loss: 7.931035137176513, loss_t2i: 7.931035137176513
+Epoch 286
+Epoch 286 loss: 8.103774070739746, loss_t2i: 8.103774070739746
+Epoch 287
+Epoch 287 loss: 8.15332260131836, loss_t2i: 8.15332260131836
+Epoch 288
+Epoch 288 loss: 7.986943340301513, loss_t2i: 7.986943340301513
+Epoch 289
+Epoch 289 loss: 8.058270263671876, loss_t2i: 8.058270263671876
+Epoch 290
+Epoch 290 loss: 8.267451286315918, loss_t2i: 8.267451286315918
+Epoch 291
+Epoch 291 loss: 8.136266613006592, loss_t2i: 8.136266613006592
+Epoch 292
+Epoch 292 loss: 8.196057891845703, loss_t2i: 8.196057891845703
+Epoch 293
+Epoch 293 loss: 8.095784282684326, loss_t2i: 8.095784282684326
+Epoch 294
+Epoch 294 loss: 8.176319694519043, loss_t2i: 8.176319694519043
+Epoch 295
+Epoch 295 loss: 8.163318920135499, loss_t2i: 8.163318920135499
+Epoch 296
+Epoch 296 loss: 8.106359958648682, loss_t2i: 8.106359958648682
+Epoch 297
+Epoch 297 loss: 8.0128755569458, loss_t2i: 8.0128755569458
+Epoch 298
+Epoch 298 loss: 8.103817749023438, loss_t2i: 8.103817749023438
+Epoch 299
+Epoch 299 loss: 7.9517491340637205, loss_t2i: 7.9517491340637205
+Epoch 300
+Epoch 300 loss: 7.776497745513916, loss_t2i: 7.776497745513916
+Epoch 301
+Epoch 301 loss: 7.88411226272583, loss_t2i: 7.88411226272583
+Epoch 302
+Epoch 302 loss: 8.175668621063233, loss_t2i: 8.175668621063233
+Epoch 303
+Epoch 303 loss: 8.092420864105225, loss_t2i: 8.092420864105225
+Epoch 304
+Epoch 304 loss: 7.896850967407227, loss_t2i: 7.896850967407227
+Epoch 305
+Epoch 305 loss: 8.003138637542724, loss_t2i: 8.003138637542724
+Epoch 306
+Epoch 306 loss: 8.016425514221192, loss_t2i: 8.016425514221192
+Epoch 307
+Epoch 307 loss: 7.926270580291748, loss_t2i: 7.926270580291748
+Epoch 308
+Epoch 308 loss: 8.145911407470702, loss_t2i: 8.145911407470702
+Epoch 309
+Epoch 309 loss: 8.179957866668701, loss_t2i: 8.179957866668701
+Epoch 310
+Epoch 310 loss: 8.226321697235107, loss_t2i: 8.226321697235107
+Epoch 311
+Epoch 311 loss: 8.03925895690918, loss_t2i: 8.03925895690918
+Epoch 312
+Epoch 312 loss: 7.9531933784484865, loss_t2i: 7.9531933784484865
+Epoch 313
+Epoch 313 loss: 8.21112232208252, loss_t2i: 8.21112232208252
+Epoch 314
+Epoch 314 loss: 7.927282238006592, loss_t2i: 7.927282238006592
+Epoch 315
+Epoch 315 loss: 8.160679626464844, loss_t2i: 8.160679626464844
+Epoch 316
+Epoch 316 loss: 8.16703519821167, loss_t2i: 8.16703519821167
+Epoch 317
+Epoch 317 loss: 8.00750093460083, loss_t2i: 8.00750093460083
+Epoch 318
+Epoch 318 loss: 7.8533422470092775, loss_t2i: 7.8533422470092775
+Epoch 319
+Epoch 319 loss: 7.942103099822998, loss_t2i: 7.942103099822998
+Epoch 320
+Epoch 320 loss: 8.061699676513673, loss_t2i: 8.061699676513673
+Epoch 321
+Epoch 321 loss: 8.090466785430909, loss_t2i: 8.090466785430909
+Epoch 322
+Epoch 322 loss: 7.996715545654297, loss_t2i: 7.996715545654297
+Epoch 323
+Epoch 323 loss: 8.05817470550537, loss_t2i: 8.05817470550537
+Epoch 324
+Epoch 324 loss: 8.034388732910156, loss_t2i: 8.034388732910156
+Epoch 325
+Epoch 325 loss: 8.02562599182129, loss_t2i: 8.02562599182129
+Epoch 326
+Epoch 326 loss: 8.084746074676513, loss_t2i: 8.084746074676513
+Epoch 327
+Epoch 327 loss: 8.028802013397216, loss_t2i: 8.028802013397216
+Epoch 328
+Epoch 328 loss: 8.06340160369873, loss_t2i: 8.06340160369873
+Epoch 329
+Epoch 329 loss: 8.098880290985107, loss_t2i: 8.098880290985107
+Epoch 330
+Epoch 330 loss: 8.094143676757813, loss_t2i: 8.094143676757813
+Epoch 331
+Epoch 331 loss: 8.129921436309814, loss_t2i: 8.129921436309814
+Epoch 332
+Epoch 332 loss: 8.17726764678955, loss_t2i: 8.17726764678955
+Epoch 333
+Epoch 333 loss: 8.104160022735595, loss_t2i: 8.104160022735595
+Epoch 334
+Epoch 334 loss: 8.048904991149902, loss_t2i: 8.048904991149902
+Epoch 335
+Epoch 335 loss: 7.985799789428711, loss_t2i: 7.985799789428711
+Epoch 336
+Epoch 336 loss: 7.893535709381103, loss_t2i: 7.893535709381103
+Epoch 337
+Epoch 337 loss: 7.975841426849366, loss_t2i: 7.975841426849366
+Epoch 338
+Epoch 338 loss: 8.093970680236817, loss_t2i: 8.093970680236817
+Epoch 339
+Epoch 339 loss: 8.009994888305664, loss_t2i: 8.009994888305664
+Epoch 340
+Epoch 340 loss: 8.04477663040161, loss_t2i: 8.04477663040161
+Epoch 341
+Epoch 341 loss: 8.042082500457763, loss_t2i: 8.042082500457763
+Epoch 342
+Epoch 342 loss: 8.069210243225097, loss_t2i: 8.069210243225097
+Epoch 343
+Epoch 343 loss: 8.262624359130859, loss_t2i: 8.262624359130859
+Epoch 344
+Epoch 344 loss: 8.018714141845702, loss_t2i: 8.018714141845702
+Epoch 345
+Epoch 345 loss: 7.857934379577637, loss_t2i: 7.857934379577637
+Epoch 346
+Epoch 346 loss: 8.21358518600464, loss_t2i: 8.21358518600464
+Epoch 347
+Epoch 347 loss: 8.131912803649902, loss_t2i: 8.131912803649902
+Epoch 348
+Epoch 348 loss: 8.087557506561279, loss_t2i: 8.087557506561279
+Epoch 349
+Epoch 349 loss: 8.12398796081543, loss_t2i: 8.12398796081543
+Epoch 350
+Epoch 350 loss: 8.109678745269775, loss_t2i: 8.109678745269775
+Epoch 351
+Epoch 351 loss: 8.007285022735596, loss_t2i: 8.007285022735596
+Epoch 352
+Epoch 352 loss: 7.973668479919434, loss_t2i: 7.973668479919434
+Epoch 353
+Epoch 353 loss: 8.025941848754883, loss_t2i: 8.025941848754883
+Epoch 354
+Epoch 354 loss: 8.225008010864258, loss_t2i: 8.225008010864258
+Epoch 355
+Epoch 355 loss: 8.213940811157226, loss_t2i: 8.213940811157226
+Epoch 356
+Epoch 356 loss: 8.090167140960693, loss_t2i: 8.090167140960693
+Epoch 357
+Epoch 357 loss: 8.073615264892577, loss_t2i: 8.073615264892577
+Epoch 358
+Epoch 358 loss: 8.077919387817383, loss_t2i: 8.077919387817383
+Epoch 359
+Epoch 359 loss: 8.1118745803833, loss_t2i: 8.1118745803833
+Epoch 360
+Epoch 360 loss: 7.830488777160644, loss_t2i: 7.830488777160644
+Epoch 361
+Epoch 361 loss: 7.9820556640625, loss_t2i: 7.9820556640625
+Epoch 362
+Epoch 362 loss: 8.0524395942688, loss_t2i: 8.0524395942688
+Epoch 363
+Epoch 363 loss: 7.988937759399414, loss_t2i: 7.988937759399414
+Epoch 364
+Epoch 364 loss: 7.965178489685059, loss_t2i: 7.965178489685059
+Epoch 365
+Epoch 365 loss: 7.694134521484375, loss_t2i: 7.694134521484375
+Epoch 366
+Epoch 366 loss: 7.988634204864502, loss_t2i: 7.988634204864502
+Epoch 367
+Epoch 367 loss: 8.066170787811279, loss_t2i: 8.066170787811279
+Epoch 368
+Epoch 368 loss: 8.022965717315675, loss_t2i: 8.022965717315675
+Epoch 369
+Epoch 369 loss: 7.77810640335083, loss_t2i: 7.77810640335083
+Epoch 370
+Epoch 370 loss: 8.04431734085083, loss_t2i: 8.04431734085083
+Epoch 371
+Epoch 371 loss: 8.07510347366333, loss_t2i: 8.07510347366333
+Epoch 372
+Epoch 372 loss: 8.12480869293213, loss_t2i: 8.12480869293213
+Epoch 373
+Epoch 373 loss: 7.949262237548828, loss_t2i: 7.949262237548828
+Epoch 374
+Epoch 374 loss: 8.095630550384522, loss_t2i: 8.095630550384522
+Epoch 375
+Epoch 375 loss: 7.917923545837402, loss_t2i: 7.917923545837402
+Epoch 376
+Epoch 376 loss: 8.007527446746826, loss_t2i: 8.007527446746826
+Epoch 377
+Epoch 377 loss: 7.974802494049072, loss_t2i: 7.974802494049072
+Epoch 378
+Epoch 378 loss: 8.05973711013794, loss_t2i: 8.05973711013794
+Epoch 379
+Epoch 379 loss: 7.9545361518859865, loss_t2i: 7.9545361518859865
+Epoch 380
+Epoch 380 loss: 8.06334867477417, loss_t2i: 8.06334867477417
+Epoch 381
+Epoch 381 loss: 7.862740802764892, loss_t2i: 7.862740802764892
+Epoch 382
+Epoch 382 loss: 8.05792169570923, loss_t2i: 8.05792169570923
+Epoch 383
+Epoch 383 loss: 8.04836368560791, loss_t2i: 8.04836368560791
+Epoch 384
+Epoch 384 loss: 7.935998630523682, loss_t2i: 7.935998630523682
+Epoch 385
+Epoch 385 loss: 8.17952585220337, loss_t2i: 8.17952585220337
+Epoch 386
+Epoch 386 loss: 8.061441326141358, loss_t2i: 8.061441326141358
+Epoch 387
+Epoch 387 loss: 7.972719383239746, loss_t2i: 7.972719383239746
+Epoch 388
+Epoch 388 loss: 8.316660499572754, loss_t2i: 8.316660499572754
+Epoch 389
+Epoch 389 loss: 8.300581741333009, loss_t2i: 8.300581741333009
+Epoch 390
+Epoch 390 loss: 8.273048782348633, loss_t2i: 8.273048782348633
+Epoch 391
+Epoch 391 loss: 8.085350704193115, loss_t2i: 8.085350704193115
+Epoch 392
+Epoch 392 loss: 8.069341945648194, loss_t2i: 8.069341945648194
+Epoch 393
+Epoch 393 loss: 8.179042720794678, loss_t2i: 8.179042720794678
+Epoch 394
+Epoch 394 loss: 8.059185314178468, loss_t2i: 8.059185314178468
+Epoch 395
+Epoch 395 loss: 8.130902767181396, loss_t2i: 8.130902767181396
+Epoch 396
+Epoch 396 loss: 8.237716484069825, loss_t2i: 8.237716484069825
+Epoch 397
+Epoch 397 loss: 8.075702571868897, loss_t2i: 8.075702571868897
+Epoch 398
+Epoch 398 loss: 8.000080871582032, loss_t2i: 8.000080871582032
+Epoch 399
+Epoch 399 loss: 8.031633663177491, loss_t2i: 8.031633663177491
+Epoch 400
+Epoch 400 loss: 8.052966117858887, loss_t2i: 8.052966117858887
